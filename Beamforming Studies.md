@@ -1,0 +1,2 @@
+- [Satellite Adaptive Onboard Beamforming Using Neuromorphic Processors (2024)](https://orbilu.uni.lu/bitstream/10993/61435/1/PIMRC_WS_2024.pdf)
+	- Using [[Neuromorphic Processing]] for beamforming on satellites, effectively using less power
