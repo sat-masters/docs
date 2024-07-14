@@ -1,4 +1,4 @@
-# Master Thesis Docs
+# Master's Thesis Docs
 
 This is the repository for our master thesis documentation.
 It is a collection of documents, notes, and other resources that we are using to write our thesis.
