@@ -2,3 +2,4 @@
 	- Using [[Neuromorphic Processing]] for beamforming on satellites, effectively using less power
 - [Intelligent Reflecting Surface-Aided LEO Satellite Communication: Cooperative Passive Beamforming and Distributed Channel Estimation (2022)](https://ieeexplore-ieee-org.zorac.aub.aau.dk/abstract/document/9849035)
 	- Beamforming using [[Intelligent Reflecting Surface]] on both satellite and groundstation
+	- 
