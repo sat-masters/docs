@@ -5,4 +5,7 @@ Will probably also include something from [[Beamforming Studies]]
 
 [Collaborative Data Downloading by Using Inter-Satellite Links in LEO Satellite Networks](https://ieeexplore-ieee-org.zorac.aub.aau.dk/stamp/stamp.jsp?tp=&arnumber=7805169)
 - Using multiple satellites to easier downlink data from the satellites.
-[](https://journals.sagepub.com/doi/epub/10.1177/00202940221089256)
+
+
+[Research on distributed beamforming synchronization technology in inter-satellite link system](https://journals.sagepub.com/doi/epub/10.1177/00202940221089256) 
+	- Using distributed beamforming to get better inter satellite links, using a Weak Bit Feedback Algorithm. 
