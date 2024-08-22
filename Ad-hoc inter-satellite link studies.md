@@ -9,3 +9,6 @@ Will probably also include something from [[Beamforming Studies]]
 
 [Research on distributed beamforming synchronization technology in inter-satellite link system](https://journals.sagepub.com/doi/epub/10.1177/00202940221089256) 
 	- Using distributed beamforming to get better inter satellite links, using a Weak Bit Feedback Algorithm. 
+
+[Multi-Layer Space Information Networks: Access Design and Softwarization](https://ieeexplore-ieee-org.zorac.aub.aau.dk/stamp/stamp.jsp?tp=&arnumber=9627690)
+- Seems like something pretty close to what we are looking into, but maybe with multiple satellites. 
