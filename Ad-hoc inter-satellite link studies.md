@@ -5,3 +5,4 @@ Will probably also include something from [[Beamforming Studies]]
 
 [Collaborative Data Downloading by Using Inter-Satellite Links in LEO Satellite Networks](https://ieeexplore-ieee-org.zorac.aub.aau.dk/stamp/stamp.jsp?tp=&arnumber=7805169)
 - Using multiple satellites to easier downlink data from the satellites.
+[](https://journals.sagepub.com/doi/epub/10.1177/00202940221089256)
