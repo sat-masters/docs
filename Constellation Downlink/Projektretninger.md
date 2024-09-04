@@ -4,7 +4,7 @@
 	- Handover
 - Physical Link Type
 	- Beamforming/No beamforming
-	- How does laser work?
+	- [[How does laser work?]]
 - Multiple Access
 - Performance degradation
 	- Terrestrial client quality of service  
