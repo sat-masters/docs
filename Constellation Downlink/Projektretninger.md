@@ -1,3 +1,5 @@
 - Link Establishment
+	- Find Access Satellites
 - Physical Link Type
+	- Beamforming
 - Multiple Access
