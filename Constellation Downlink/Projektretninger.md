@@ -1,6 +1,7 @@
 - Link Establishment
 	- Find Access Satellites
-	- "Hardcoded" orbits 
+	- "Hardcoded" orbits
+	- Handover
 - Physical Link Type
 	- Beamforming/No beamforming
 	- How does laser work?
@@ -14,3 +15,8 @@
 - Client positioning
 	- Lower / Same / Higher orbit
 	- Following / Orthogonal / Opposing direction
+- 5G / current protocol
+	- What can be reused
+- Performance Analysis
+	- Vs Legacy Downlink / Uplink
+- IP ?
