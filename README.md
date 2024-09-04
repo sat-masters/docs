@@ -8,3 +8,13 @@ Get Obsidian [here](https://obsidian.md/).
 
 Parent Notes:
 [[Masters Thesis Research]]
+
+math:
+
+$\frac{1}{2} \in \mathbb R$
+
+excal:
+
+![[Pasted image 20240904092707.png]]
+
+![[sat.excalidraw]]
