@@ -1,4 +1,7 @@
 [
   "obsidian-auto-link-title",
-  "obsidian-git"
+  "obsidian-git",
+  "execute-code",
+  "obsidian42-brat",
+  "jupyter"
 ]
