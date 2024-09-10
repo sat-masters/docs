@@ -16,6 +16,9 @@ Meaning the latency can be as high as roughly 12 hours. (TODO: We should probabl
 
 
 ## Price 
+Relates in some way to all of this: https://aws.amazon.com/ground-station/
+
+
 The price of a traditional downlink is complicated to find an exact number for.
 The price of this can be split into two parts: 
 - Establishing costs 
@@ -25,6 +28,6 @@ The price of this can be split into two parts:
 This include the costs of the hardware of the 
 
 ### Maintenance costs
-HJEHE
+
 
 ## Resilience 
