@@ -25,6 +25,6 @@ The price of this can be split into two parts:
 This include the costs of the hardware of the 
 
 ### Maintenance costs
-
+HJEHE
 
 ## Resilience 
