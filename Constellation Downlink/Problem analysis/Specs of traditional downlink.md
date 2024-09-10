@@ -30,6 +30,6 @@ This includes the costs of the hardware of the ground station, but also all the 
 
 
 ### Maintenance costs
-This includes the labour hours of maintaining the hardware
+This includes the labour hours of maintaining the hardware, such as making sure the antenna move as intended by keeping them clean and free of rust and other debris. 
 
 ## Resilience 
