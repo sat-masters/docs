@@ -5,16 +5,15 @@ A rough estimation of transmission delay for a satellite in a 500 km orbit gives
 This is considerably lower than the 100 ms.  reported in [[Communication Services project (CSP)]]
 
 For a non LoS scenario depending on the orbit of the satellite the latency varies a lot. 
-The best case scenario would be an equatorial orbit. Here the satellite will pass the same places each orbit meaning the latency would be between 0-90 minutes(TODO: skriv lige lidt flottere)
+The best case scenario would be an equatorial orbit. Here the satellite will pass the same places each orbit meaning the latency would be between 0-90 minutes %% TODO: skriv lige lidt flottere %%
 The worst case scenario would be an polar orbit where the satellite would only pass the same spot every 12 hours, resulting in getting signal roughly 3-4 times every 12 hours(since the satellite doesn't have to be directly above the ground station, but only needs LoS to establish a connection).  
-Meaning the latency can be as high as roughly 12 hours. (TODO: We should probably make the exact calculations.)
-
+Meaning the latency can be as high as roughly 12 hours. %% TODO: We should probably make the exact calculations. %%
 
 ## Throughput 
 
 
 
-
+  
 ## Price 
 The price of a traditional downlink is complicated to find an exact number for.
 The price of this can be split into two parts: 
