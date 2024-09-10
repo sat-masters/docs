@@ -13,6 +13,7 @@ Meaning the latency can be as high as roughly 12 hours. %% TODO: We should proba
 ### SNR 
 %% Måske skrive noget fra link budget excel filen %%
 
+### Bandwidth 
 
   
 ## Price 
@@ -25,9 +26,10 @@ The price of this can be split into two parts:
 - Maintenance costs
 
 ### Establishing costs
-This include the costs of the hardware of the 
+This includes the costs of the hardware of the ground station, but also all the labour hours associated with setting up the hardware. 
+
 
 ### Maintenance costs
-
+This includes the labour hours of maintaining the hardware
 
 ## Resilience 
