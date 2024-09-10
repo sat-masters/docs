@@ -1,4 +1,4 @@
-For this scenario a single satellite orbiting below a megaconstellation is considered. 
+For this scenario a single satellite orbiting in LEO below a megaconstellation placed in LEO is considered. 
 
 ## Latency
 
@@ -7,7 +7,7 @@ For this scenario a single satellite orbiting below a megaconstellation is consi
 
 ## Throughput 
 
-
+Theoretically the same as a traditional downlink as, however as the satellite interacts with the mega constellation as a traditional user, the link would be shared between users. Therefore the throughput of the satellite depends on the amount of users simultaneous trying to connect using the constellaion. 
 
 ## Price 
 
