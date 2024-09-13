@@ -8,7 +8,7 @@ For this scenario a single satellite orbiting in LEO below a megaconstellation p
 ## Throughput 
 
 ### Bandwidth
-This should be the same 
+This should be the same as the traditional 
 
 ### SNR
 
