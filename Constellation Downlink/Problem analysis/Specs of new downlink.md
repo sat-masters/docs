@@ -14,7 +14,8 @@ Assuming the connection is shared evenly between the users the throughput would 
 
 ## Price 
 
-Something similar to this is the Iridium con
+Something similar to this is the Iridium project (See [[Interessenter]]). 
+%% TODO: find pris på dette %%
 
 ## Resilience 
 No dependency on one single groundstation, as these mega constellations has multiple. 
