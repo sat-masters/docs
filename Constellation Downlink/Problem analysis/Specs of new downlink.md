@@ -14,7 +14,7 @@ Assuming the connection is shared evenly between the users the throughput would 
 
 ## Price 
 
-
+Something similar to this is the Iridium con
 
 ## Resilience 
 No dependency on one single groundstation, as these mega constellations has multiple. 
