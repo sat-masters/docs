@@ -13,5 +13,6 @@
 	- 
 - [TESAT](https://www.tesat.de/products)
 	- Satellite Laser Terminals
+- [Iridium Satellite Communications ](https://www.iridium.com/)
 - 
 - 
