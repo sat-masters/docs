@@ -11,4 +11,7 @@ Will probably also include something from [[Beamforming Studies]]
 	- Using distributed beamforming to get better inter satellite links, using a Weak Bit Feedback Algorithm. 
 
 [Multi-Layer Space Information Networks: Access Design and Softwarization](https://ieeexplore-ieee-org.zorac.aub.aau.dk/stamp/stamp.jsp?tp=&arnumber=9627690)
-- Seems like something pretty close to what we are looking into, but maybe with multiple satellites. This one is important to read, i think!
+- Seems like something pretty close to what we are looking into, but maybe with multiple satellites. This one is important to read
+
+[SatMagazine](http://www.satmagazine.com/story.php?number=1026762698)
+- About starlink
