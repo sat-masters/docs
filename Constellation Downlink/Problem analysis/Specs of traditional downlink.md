@@ -10,10 +10,13 @@ The worst case scenario would be an polar orbit where the satellite would only p
 Meaning the latency can be as high as roughly 12 hours. %% TODO: We should probably make the exact calculations. %%
 
 ## Throughput 
+
+### Bandwidth 
+
 ### SNR 
 %% Måske skrive noget fra link budget excel filen %%
 
-### Bandwidth 
+
 
   
 ## Price 
