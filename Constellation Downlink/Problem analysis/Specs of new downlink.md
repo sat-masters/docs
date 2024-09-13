@@ -15,7 +15,7 @@ Assuming the connection is shared evenly between the users the throughput would 
 ## Price 
 
 Something similar to this is the Iridium project (See [[Interessenter]]). 
-%% TODO: find pris på dette %%
+%% TODO: find pris på iridium %%
 The most expensive plan from SpaceX is 9 000 kr. /month
 ## Resilience 
 No dependency on one single groundstation, as these mega constellations has multiple. 
