@@ -8,10 +8,10 @@ For this scenario a single satellite orbiting in LEO below a megaconstellation p
 ## Throughput 
 
 ### Bandwidth
-This should be the same as the traditional 
+This should be the same as the traditional downlink to be able to compare the two. Depending on perspective either the connection should be split in time or in frequency. 
 
 ### SNR
-
+As the signal does not have tro 
 
 ### Shared connection
 
