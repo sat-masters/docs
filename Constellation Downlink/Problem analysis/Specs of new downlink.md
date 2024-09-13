@@ -15,5 +15,6 @@ Assuming the connection is shared evenly between the users the throughput would 
 ## Price 
 
 
+
 ## Resilience 
 No dependency on one single groundstation, as these mega constellations has multiple. 
