@@ -17,7 +17,9 @@ As the signal does not have to travel through a dense atmosphere the SNR of the 
 %% TODO: Lav overslagsregning på ny SNR %%
 
 From the SNR and the bandwidth the capacity of the link can be found using the shannon theorem: 
-$$C = B \cdot log_2($$
+$$C = B \cdot log_2(1+\frac{S}{N})$$
+Where B is the bandwidth, S is the average power of the signal and N is the average power of the noise. 
+
 
 
 
