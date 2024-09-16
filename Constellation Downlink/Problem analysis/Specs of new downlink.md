@@ -9,7 +9,8 @@ We will do our own calculations at some point.
 
 ## Throughput 
 
-
+[SpaceX advertises ](https://www.starlink.com/business/aviation)a 40-220 MB/s of download speeds for the downlink throughput and a uplink speed of 8-25 MB/s. 
+For now this is what is used for arguments sake, but we should maybe do some calculations ourselves at some point which would include the following. 
 ### Bandwidth
 This should be the same as the traditional downlink to be able to compare the two. Depending on perspective either the connection should be split in time or in frequency. 
 
@@ -29,8 +30,6 @@ As the satellite interacts with the mega constellation as a traditional user, th
 Assuming the connection is shared evenly between the users the throughput would be: 
  $$Th = C/U$$
  Th is the throughput, C is the capacity of the link and U is the number of users. 
-
-
 
 
 
