@@ -44,3 +44,4 @@ The SpaceX plan for aviation is 10 000 $ a month for unlimited data and 2000 $ f
  
 ## Resilience 
 No dependency on one single groundstation, as these mega constellations has multiple. 
+However if the starlink network is down, there is not much to do since there is no ownership of the groundstations. 
