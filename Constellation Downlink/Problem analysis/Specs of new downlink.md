@@ -9,6 +9,7 @@ We will do our own calculations at some point.
 
 ## Throughput 
 
+
 ### Bandwidth
 This should be the same as the traditional downlink to be able to compare the two. Depending on perspective either the connection should be split in time or in frequency. 
 
@@ -19,8 +20,6 @@ As the signal does not have to travel through a dense atmosphere the SNR of the 
 From the SNR and the bandwidth the capacity of the link can be found using the shannon theorem: 
 $$C = B \cdot log_2(1+\frac{S}{N})$$
 Where B is the bandwidth, S is the average power of the signal and N is the average power of the noise. 
-
-
 
 
 
