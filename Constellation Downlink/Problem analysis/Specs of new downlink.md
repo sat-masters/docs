@@ -4,6 +4,8 @@ For this scenario a single satellite orbiting in LEO below a megaconstellation p
 
 [According to SpaceX ](https://www.nasa.gov/wp-content/uploads/2024/07/sxs-spacex.png) mentioned in the [[Communication Services project (CSP)]] poster. less than 100 ms to and from anywhere on earth. 
 
+We will do our own calculations at some point. 
+
 
 ## Throughput 
 
@@ -29,6 +31,8 @@ Assuming the connection is shared evenly between the users the throughput would 
 
 Something similar to this is the Iridium project (See [[Interessenter]]). 
 %% TODO: find pris på iridium %%
-The SpaceX plan for aviation is 10 000 $ a month [Starlink Business | Aviation](https://www.starlink.com/business/aviation)
+The SpaceX plan for aviation is 10 000 $ a month for unlimited data and 2000 $ for 20 GB.
+ [Starlink Business | Aviation](https://www.starlink.com/business/aviation)
+ 
 ## Resilience 
 No dependency on one single groundstation, as these mega constellations has multiple. 
