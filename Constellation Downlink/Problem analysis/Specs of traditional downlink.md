@@ -1,7 +1,7 @@
 For a traditional scenario a single satellite in LEO with a single ground station is considered. 
 ## Latency
 Considering a scenario of line of sight (LoS) between the ground station and the satellite. The latency should be dominated by propagation delay. 
-A rough estimation of transmission delay for a satellite in a 500 km orbit gives a round trip delay of 3,33 ms. and a one way latency of 1,666 ms. (easy calculations put in [[test.ipynb]])
+A rough estimation of transmission delay for a satellite in a 500 km orbit gives a round trip delay of 3,33 ms. and a one way latency of 1,666 ms. (easy calculations put in [[metrics.html]])
 This is considerably lower than the 100 ms.  reported in [[Communication Services project (CSP)]]
 
 For a non LoS scenario depending on the orbit of the satellite the latency varies a lot. 
