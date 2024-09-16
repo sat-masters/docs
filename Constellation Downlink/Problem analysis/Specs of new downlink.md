@@ -16,6 +16,12 @@ This should be the same as the traditional downlink to be able to compare the tw
 As the signal does not have to travel through a dense atmosphere the SNR of the recieved signal should be higher. 
 %% TODO: Lav overslagsregning på ny SNR %%
 
+From the SNR and the bandwidth the capacity of the link can be found using the shannon theorem: 
+$$C = B \cdot log_2($$
+
+
+
+
 ### Shared connection
 
 As the satellite interacts with the mega constellation as a traditional user, the link would be shared between users in time. Therefore the throughput of the satellite depends on the amount of users simultaneous trying to connect using the constellaion. 
