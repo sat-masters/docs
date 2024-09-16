@@ -9,12 +9,24 @@ The best case scenario would be an equatorial orbit. Here the satellite will pas
 The worst case scenario would be an polar orbit where the satellite would only pass the same spot every 12 hours, resulting in getting signal roughly 3-4 times every 12 hours(since the satellite doesn't have to be directly above the ground station, but only needs LoS to establish a connection).  
 Meaning the latency can be as high as roughly 12 hours. %% TODO: We should probably make the exact calculations. %%
 
-## Throughput 
+## Capacity 
 
 ### Bandwidth 
+The bandwidth is assumed to be $240\,\mathrm{MHz}$ as this is equivalent to 1 channel in the Ku band used by Starlink. 
 
 ### SNR 
-%% Måske skrive noget fra link budget excel filen %%
+SNR is assumed to be between $5 - 15 \mathrm{dB}$ for a small satellite mission with a relativley small grounstation. 
+
+### Data Generation Capacity
+To estimate the capacity of a traditional downlink, we can use the Shannon-Hartley theorem:
+$$C = B \log_2(1 + \frac{S}{N})$$
+where:
+- $C$ is the channel capacity in bits per second
+- $B$ is the bandwidth in Hz
+- $\frac{S}{N}$ is the signal to noise ratio
+
+For different orbits and channel snr:
+![[mission_capacity_5_10_db.png]]
 
 
 
