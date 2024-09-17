@@ -7,7 +7,7 @@ Overview paper:
 
 ## Requirements
 Some of the requirements can also be seen in the paper above. 
-
+We have also found a contact in NASA to contact if we need more info.
 
 %% TODO: Write Jennifer Rock, [jennifer.l.rock@nasa.gov](mailto:jennifer.l.rock@nasa.gov). to get a specification.  %%
 
