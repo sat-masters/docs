@@ -46,7 +46,7 @@ Assuming the connection is shared evenly between the users the throughput would 
 
 ## Price 
 
-Something similar to this is the Iridium project (See [[Interessenter]]). 
+Something similar to this is the Iridium project (See [[Stakeholders]]). 
 %% TODO: find pris på iridium %%
 The SpaceX plan for aviation (which is the closest spaceX plan to our idea) is 10 000 $ a month for unlimited data and 2000 $ for 20 GB.
  [Starlink Business | Aviation](https://www.starlink.com/business/aviation)
