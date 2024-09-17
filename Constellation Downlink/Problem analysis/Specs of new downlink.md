@@ -1,3 +1,8 @@
+---
+tags:
+  - metrics
+---
+
 For this scenario a single satellite orbiting in LEO below a megaconstellation placed in LEO is considered. 
 
 ## Latency
