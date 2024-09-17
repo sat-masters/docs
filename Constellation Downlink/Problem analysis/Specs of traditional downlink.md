@@ -1,3 +1,8 @@
+---
+tags:
+  - metrics
+---
+
 For a traditional scenario a single satellite in LEO with a single ground station is considered. 
 ## Latency
 Considering a scenario of line of sight (LoS) between the ground station and the satellite. The latency should be dominated by propagation delay. 
