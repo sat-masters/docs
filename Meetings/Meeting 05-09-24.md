@@ -5,10 +5,10 @@ tags:
 ---
 
 # Attendees:
-Albert
-Jens 
-Petar
-Jdn
+- Albert
+- Jens 
+- Petar
+- Jdn
 
 # Agenda:
 
