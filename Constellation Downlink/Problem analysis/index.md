@@ -18,7 +18,7 @@ Then an alternative downlink is considered in: [[Specs of new downlink]]
 ## Preliminary conclusions 
 Some preliminary conclusions: 
 
-From the estimations made it can be seen that the new downlink theoretically has multiple advantages. The latency of the 
+From the estimations made it can be seen that the new downlink theoretically has multiple advantages. The latency of the new downlink is in many cases much lower than 
 
 
 
