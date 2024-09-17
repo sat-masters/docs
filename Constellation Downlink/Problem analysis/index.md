@@ -36,4 +36,5 @@ Commercial prices for similar products to the traditional downlink has not been 
 Latency is the metric where this new downlink can make a big difference, as improvements of orders of magnitude are possible. Throughput can also be improved.  
 
 ## Stakeholders 
-A preliminary list of stakeholders in this space is composed in the list of [[Stakeholders]]
+A preliminary list of stakeholders in this space is composed in the list of [[Stakeholders]]. 
+This list also includes a crude list of possible customers of the new downlink. 
