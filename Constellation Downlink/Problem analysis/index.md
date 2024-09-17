@@ -22,7 +22,13 @@ Some preliminary conclusions:
 From the estimations made it can be seen that the new downlink theoretically has multiple advantages. The latency of the new downlink is in many cases much lower than that of the old downlink. 
 
 ### Throughput
-The throughput of the new downlink is lower than the traditional downlink when the groundstation has line of sight with the satellite. But as the satellite spends most of it's time not over the groundstation the amount of data which can be downlinked per second  
+The throughput of the new downlink is lower than the traditional downlink when the groundstation has line of sight with the satellite. But as the satellite spends most of it's time not over the groundstation the amount of data which can be downlinked per second is higher for the new downlink. 
+
+### Price 
+
+Commercial prices for similar products to the new downlink has been found which would be around 10 000$ per month. 
+
+Commercial prices for similar products to the traditional downlink has not been found yet.
 
 
 
