@@ -13,4 +13,4 @@ First a traditional downlink is considered in: [[Specs of traditional downlink]]
 
 Then an alternative downlink is considered in: [[Specs of new downlink]]
 
-An ongoing nasa project is also funding research in this area. This project is called [[Communication Services project (CSP)]]
+A list of actors in this space is composed in the list of [[Interessenter]]
