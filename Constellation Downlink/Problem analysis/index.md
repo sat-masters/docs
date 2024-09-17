@@ -1,7 +1,19 @@
-test
+---
+title: Problem Analysis
+---
+This section seeks to find the core of the problem to be solved. 
 
-links:
-[[Specs of traditional downlink]]
+To do this a list of specs for downlinks needs to be specified. 
 
-[[Specs of new downlink]]
+This list includes but is not limited to: 
+- Latency
+- Throughput
+- Price 
+- Resilience 
+- Convenience
 
+First a traditional downlink is considered in: [[Specs of traditional downlink]]
+
+Then an alternative downlink is considered in: [[Specs of new downlink]]
+
+A list of actors in this space is composed in the list of [[Stakeholders]]
