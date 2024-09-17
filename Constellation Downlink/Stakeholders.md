@@ -15,4 +15,7 @@
 	- Satellite Laser Terminals
 - [Iridium Satellite Communications ](https://www.iridium.com/)
 - 
-- 
+### Potential customers
+
+- Weather satellite missions. 
+- Emergency resoponder missio

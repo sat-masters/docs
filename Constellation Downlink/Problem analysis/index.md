@@ -15,5 +15,12 @@ This list includes but is not limited to:
 First a traditional downlink is considered in: [[Specs of traditional downlink]]
 
 Then an alternative downlink is considered in: [[Specs of new downlink]]
+## Preliminary conclusions 
+Some preliminary conclusions: 
 
-A list of actors in this space is composed in the list of [[Stakeholders]]
+From the estimations made it can be seen that the new downlink theoretically has multiple advantages. 
+
+
+
+
+A list of stakeholders in this space is composed in the list of [[Stakeholders]]
