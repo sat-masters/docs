@@ -17,5 +17,11 @@
 - 
 ### Potential customers
 
-- Weather satellite missions. 
-- Emergency resoponder missio
+- Weather missions.
+	- Getting real time information about the weather will increase the performance of the weather models. 
+- Emergency resoponder missions
+	- For emergency responding (for example natural disaster responding) latency of information is paramount. 
+- Military mission 
+	- To get 
+- Hyperspectral imaging 
+	- These missions create a large amount of data. As seen from the 
