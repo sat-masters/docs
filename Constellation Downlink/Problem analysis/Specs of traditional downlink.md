@@ -32,8 +32,9 @@ For different orbits and channel snr:
 
   
 ## Price 
-Relates in some way to all of this: https://aws.amazon.com/ground-station/
-
+Commercial ground station solutions:
+- [AWS Ground Station](https://aws.amazon.com/ground-station/)
+- [KSATlite - KSAT - Kongsberg Satellite Services](https://www.ksat.no/ground-network-services/ksatlite/)
 
 The price of a traditional downlink is complicated to find an exact number for.
 The price of this can be split into two parts: 
