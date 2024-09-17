@@ -9,5 +9,6 @@
 	- Estimate calculations vs Simulations
 - Speak on accessibility of notes
 - Price of Groundstation (KSAT)
+- Master Thesis Contract
 
 # Notes:
