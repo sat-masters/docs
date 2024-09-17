@@ -37,7 +37,7 @@ Where B is the bandwidth, S is the average power of the signal and N is the aver
 
 ### Shared connection
 
-As the satellite interacts with the mega constellation as a traditional user, the link would be shared between users in time. Therefore the throughput of the satellite depends on the amount of users simultaneous trying to connect using the constellaion. 
+As the satellite interacts with the mega constellation as a traditional user, the link would be shared between users in time(or frequency). Therefore the throughput of the satellite depends on the amount of users simultaneous trying to connect using the constellaion. 
 Assuming the connection is shared evenly between the users the throughput would be: 
  $$Th = C/U$$
  Th is the throughput, C is the capacity of the link and U is the number of users. 
@@ -48,7 +48,7 @@ Assuming the connection is shared evenly between the users the throughput would 
 
 Something similar to this is the Iridium project (See [[Interessenter]]). 
 %% TODO: find pris på iridium %%
-The SpaceX plan for aviation is 10 000 $ a month for unlimited data and 2000 $ for 20 GB.
+The SpaceX plan for aviation (which is the closest spaceX plan to our idea) is 10 000 $ a month for unlimited data and 2000 $ for 20 GB.
  [Starlink Business | Aviation](https://www.starlink.com/business/aviation)
  
 ## Resilience 
