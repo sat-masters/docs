@@ -13,4 +13,4 @@ First a traditional downlink is considered in: [[Specs of traditional downlink]]
 
 Then an alternative downlink is considered in: [[Specs of new downlink]]
 
-A list of actors in this space is composed in the list of [[Interessenter]]
+A list of stakeholders in this space is composed in the list of [[Interessenter]]
