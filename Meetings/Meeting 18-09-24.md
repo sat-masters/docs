@@ -1,5 +1,5 @@
 # Attendees:
-
+Israel, Jdn, Petar, Albert and Jens
 
 # Agenda:
 
