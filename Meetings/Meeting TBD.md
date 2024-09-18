@@ -12,3 +12,7 @@
 - Master Thesis Contract
 
 # Notes:
+
+Virtual constellation 
+hvor mange satelliter skal sendes op 
+
