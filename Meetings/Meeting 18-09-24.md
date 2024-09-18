@@ -16,3 +16,9 @@
 Virtual constellation 
 hvor mange satelliter skal sendes op 
 
+We need to find the actual problems with the solution. 
+Build out the simulator as we go. Don't make it more complicated than we need it to be. 
+
+
+
+
