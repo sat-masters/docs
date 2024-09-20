@@ -33,13 +33,13 @@ updated:
 
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
-- <mark class="hltr-{{annotation.colorCategory | lower}}">"{{annotation.annotatedText}}"</mark> [Page {{annotation.page}}]({{annotation.desktopURI}})<br>
+- <mark class="hltr-{{annotation.colorCategory | lower}}">"{{annotation.annotatedText}}"</mark> [Page {{annotation.page}}]({{annotation.desktopURI}}){{'\n'}}
   {%- endif %}
   {%- if annotation.imageRelativePath -%}
-- ![{{annotation.imageCaption}}]({{annotation.imageRelativePath}})<br>
+- ![{{annotation.imageCaption}}]({{annotation.imageRelativePath}}){{'\n'}}
   {%- endif %}
   {%- if annotation.comment -%}
-    - {{annotation.comment}}
+{{'\t'}} - {{annotation.comment}}
   {%- endif %}
   
 {% endfor %}
