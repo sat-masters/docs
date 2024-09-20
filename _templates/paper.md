@@ -42,9 +42,10 @@ updated:
   {%- if annotation.imageRelativePath -%}
 - ![{{annotation.imageCaption}}]({{annotation.imageRelativePath}}){{'\n'}}
   {%- endif %}
+  {%- if annotation.tags%}
+    {{'\t'}} - {{annotation.tags | prepend: "#" | join: ", "}}
   {%- if annotation.comment -%}
-{{'\t'}} - {{annotation.comment}}
+    {{'\t'}} - {{annotation.comment}}
   {%- endif %}
-  {{' '}}
 {% endfor %}
 
