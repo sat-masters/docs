@@ -11,7 +11,7 @@ keywords: bob,børge
 
 # Annotations
 
-- <mark style="background: #FFF3A3A6;">Lorem ipsum</mark>
+- <mark class="hltr-green">Lorem ipsum</mark>
 	- Det her er værd at undersøge
 
 - ![[Pasted image 20240904092707.png]]
