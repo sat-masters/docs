@@ -4,7 +4,7 @@ aliases:
   - {{title}}
   - {{citekey}}
 url: {{url}}
-doi: {{doi}}
+doi: {{DOI}}
 citekey: {{citekey}}
 keywords: {{allTags}}
 type: paper
@@ -13,7 +13,11 @@ updated:
 ---
 
 # Paper Details
-% TODO: do later %
+|          |                  |
+| -------- | ---------------- |
+| Authors  | {{authors}}      |
+| doi      | {{DOI}}          |
+| Abstract | {{abstractNote}} |
 
 ---
 {% for note in notes -%}
