@@ -13,11 +13,11 @@ updated:
 ---
 
 # Paper Details
-|          |                  |
-| -------- | ---------------- |
-| Authors  | {{authors}}      |
-| doi      | {{DOI}}          |
-| Abstract | {{abstractNote}} |
+|          |                                    |
+| -------- | ---------------------------------- |
+| Authors  | {{authors}}                        |
+| doi      | [{{DOI}}](https://doi.org/{{DOI}}) |
+| Abstract | {{abstractNote}}                   |
 
 ---
 {% for note in notes -%}
