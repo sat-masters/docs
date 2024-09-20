@@ -45,6 +45,6 @@ updated:
   {%- if annotation.comment -%}
 {{'\t'}} - {{annotation.comment}}
   {%- endif %}
-  
+  {{' '}}
 {% endfor %}
 
