@@ -12,10 +12,17 @@ created:
 updated:
 ---
 
-# Link to paper
+# Paper Details
+% TODO: do later %
 
-{{markdownNotes}}
+---
+{% for note in notes -%}
+  {{note.note}}
 
+[Edit note]({{note.desktopURI}})
+
+---
+{% endfor %}
 # Annotations
 
 | <mark class="hltr-grey"> Highlight Color</mark> | Meaning              |
@@ -26,13 +33,14 @@ updated:
 
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
-    - <mark class="hltr-{{annotation.color | lower}}">"{{annotation.annotatedText}}"</mark> Page {{annotation.page}}
+- <mark class="hltr-{{annotation.colorCategory | lower}}">"{{annotation.annotatedText}}"</mark> [Page {{annotation.page}}]({{annotation.desktopURI}})<br>
   {%- endif %}
   {%- if annotation.imageRelativePath -%}
-    - ![{{annotation.imageCaption}}]({{annotation.imageRelativePath}})
+- ![{{annotation.imageCaption}}]({{annotation.imageRelativePath}})<br>
   {%- endif %}
   {%- if annotation.comment -%}
-      - {{annotation.comment}}
+    - {{annotation.comment}}
   {%- endif %}
+  
 {% endfor %}
 
