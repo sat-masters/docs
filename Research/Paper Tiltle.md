@@ -1,5 +1,6 @@
 ---
 doi: ...
+keywords: bob,børge
 ---
 
 # General Thoughts
