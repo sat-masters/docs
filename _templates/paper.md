@@ -1,5 +1,5 @@
 ---
-title: {{title}}
+title: "{{title}}"
 aliases:
   - {{title}}
   - {{citekey}}
@@ -14,7 +14,7 @@ updated:
 
 # Link to paper
 
-# General Thoughts
+{{markdownNotes}}
 
 # Annotations
 
@@ -25,3 +25,14 @@ updated:
 | <mark class="hltr-green">Green</mark>           | Aim to replicate     |
 
 {% for annotation in annotations -%}
+  {%- if annotation.annotatedText -%}
+    - <mark class="hltr-{{annotation.color | lower}}">"{{annotation.annotatedText}}"</mark> Page {{annotation.page}}
+  {%- endif %}
+  {%- if annotation.imageRelativePath -%}
+    - ![{{annotation.imageCaption}}]({{annotation.imageRelativePath}})
+  {%- endif %}
+  {%- if annotation.comment -%}
+      - {{annotation.comment}}
+  {%- endif %}
+{% endfor %}
+
