@@ -7,4 +7,4 @@ It is written in Obsidian, a markdown-based note-taking app.
 Get Obsidian [here](https://obsidian.md/).
 
 Landing Page:
-[[index]]
+[[index|Landing Page]]
