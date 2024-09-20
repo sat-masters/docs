@@ -16,15 +16,6 @@ updated:
 % TODO: do later %
 
 ---
-# Even more thoughts
-
-This is a good færgemand
-
-- very nice
-
-[Edit note](zotero://select/groups/5655478/items/PIKDH8Z4)
-
----
 # General Thoughts
 
 Very important paper in the context of our project
