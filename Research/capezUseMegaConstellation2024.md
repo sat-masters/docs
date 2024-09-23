@@ -22,11 +22,27 @@ updated:
 >This paper presents a framework for integrating Low-Earth Orbit (LEO) platforms with Non-Terrestrial Networks (NTNs) in the emerging 6G communication landscape. Our work applies the Mega-Constellation Services in Space (MCSS) paradigm, leveraging LEO mega-constellations’ expansive coverage and capacity, designed initially for terrestrial devices, to serve platforms in lower LEO orbits. Results show that this approach overcomes the limitation of sporadic and time-bound satellite communication links, a challenge not fully resolved by available Ground Station Networks and Data Relay Systems.We contribute three key elements: (i) a detailed MCSS evaluation framework employing Monte Carlo simulations to assess space user links and distributions; (ii) a novel Space User Terminal (SUT) design optimized for MCSS, using different configurations and 5G New Radio Adaptive Coding and Modulation; (iii) extensive results demonstrating MCSS’s substantial improvement over existing Ground Station Networks and Data Relay Systems, motivating its role in the upcoming 6G NTNs. The space terminal, incorporating a multi-system, multi-orbit, and software-defined architecture, can handle Terabit-scale daily data volumes and minute-scale latencies. It offers a compact, power-efficient solution for properly integrating LEO platforms as space internet nodes.
 
 ---
+# Summary
+
+The paper describes the idea of attaching a satellite in a “lower” LEO to a mega constellation in a “higher” LEO. Primary contributions are a framework for analysis of such a system, and a baseline system model.
+
 # General Thoughts
 
-Very important paper in the context of our project
+Very important paper in the context of our project as it deals directly with the subject matter.  
+However it also leaves room for improvements, as the paper doesn’t delve into the exact implementations of the system, and “only” deals with the problem from a relatively large meta perspective.
 
-Also nice tables
+## Good Things
+
+I like the methods for evaluation / simulation the paper proposes and we could more or less use their methods exactly as they are built to deal with this exact system model.
+
+They provide a lot of good
+
+## Room for Improvement
+
+The fact that they use the same connection for both “UE’s” and “gNB’s” is smart as it can be sold as a more versatile system, however the two implementations have vastly different implications for requirements wrt. latency and throughput.  
+Focusing on one aspect may be (most probably UE) may be advantageous.
+
+They don’t assume any beamforming from the UE, leaving it up to the satellite designer to implement. This may be an area to improve the link and create a general solution to this.
 
 [Edit note](zotero://select/groups/5655478/items/AUMSHCV9)
 
