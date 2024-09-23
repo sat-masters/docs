@@ -17,7 +17,8 @@ updated:
 | -------- | ---------------------------------- |
 | Authors  | {{authors}}                        |
 | doi      | [{{DOI}}](https://doi.org/{{DOI}}) |
-| Abstract | {{abstractNote}}                   |
+>[!abstract]-
+>{{abstractNote}}
 
 ---
 {% for note in notes -%}
