@@ -6,21 +6,20 @@ aliases:
 url: https://ieeexplore.ieee.org/abstract/document/10679201/authors#authors
 doi: 10.1109/JSAC.2024.3459078
 citekey: capezUseMegaConstellation2024
-keywords: Low earth orbit satellites, Satellite broadcasting, Space vehicles, 6G, 6G mobile communication, Low-Earth Orbit Satellites, Mega Constellations, Non-Terrestrial Networks, Optical fiber communication, Orbits, Relays
+keywords: Satellite broadcasting, Space vehicles, 6G, 6G mobile communication, Low earth orbit satellites, Low-Earth Orbit Satellites, Mega Constellations, Non-Terrestrial Networks, Optical fiber communication, Orbits, Relays
 type: paper
 created:
 updated:
 ---
 
 # Paper Details
-|         |                                                                                                                               |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Authors | Gabriel Maiolini Capez, Mauricio A. Cáceres, Roberto Armellin, Chris P. Bridges, Juan A. Fraire, Stefan Frey, Roberto Garello |
-| doi     | [10.1109/JSAC.2024.3459078](https://doi.org/10.1109/JSAC.2024.3459078)                                                        |
-
-> [!abstract]-
-> This paper presents a framework for integrating Low-Earth Orbit (LEO) platforms with Non-Terrestrial Networks (NTNs) in the emerging 6G communication landscape. Our work applies the Mega-Constellation Services in Space (MCSS) paradigm, leveraging LEO mega-constellations’ expansive coverage and capacity, designed initially for terrestrial devices, to serve platforms in lower LEO orbits. Results show that this approach overcomes the limitation of sporadic and time-bound satellite communication links, a challenge not fully resolved by available Ground Station Networks and Data Relay Systems.We contribute three key elements: (i) a detailed MCSS evaluation framework employing Monte Carlo simulations to assess space user links and distributions; (ii) a novel Space User Terminal (SUT) design optimized for MCSS, using different configurations and 5G New Radio Adaptive Coding and Modulation; (iii) extensive results demonstrating MCSS’s substantial improvement over existing Ground Station Networks and Data Relay Systems, motivating its role in the upcoming 6G NTNs. The space terminal, incorporating a multi-system, multi-orbit, and software-defined architecture, can handle Terabit-scale daily data volumes and minute-scale latencies. It offers a compact, power-efficient solution for properly integrating LEO platforms as space internet nodes.
-
+|             |                                    |
+| ----------- | ---------------------------------- |
+| Authors     | Gabriel Maiolini Capez, Mauricio A. Cáceres, Roberto Armellin, Chris P. Bridges, Juan A. Fraire, Stefan Frey, Roberto Garello                        |
+| Pulbication | IEEE Journal on Selected Areas in Communications               |
+| doi         | [10.1109/JSAC.2024.3459078](https://doi.org/10.1109/JSAC.2024.3459078) |
+>[!abstract]-
+>This paper presents a framework for integrating Low-Earth Orbit (LEO) platforms with Non-Terrestrial Networks (NTNs) in the emerging 6G communication landscape. Our work applies the Mega-Constellation Services in Space (MCSS) paradigm, leveraging LEO mega-constellations’ expansive coverage and capacity, designed initially for terrestrial devices, to serve platforms in lower LEO orbits. Results show that this approach overcomes the limitation of sporadic and time-bound satellite communication links, a challenge not fully resolved by available Ground Station Networks and Data Relay Systems.We contribute three key elements: (i) a detailed MCSS evaluation framework employing Monte Carlo simulations to assess space user links and distributions; (ii) a novel Space User Terminal (SUT) design optimized for MCSS, using different configurations and 5G New Radio Adaptive Coding and Modulation; (iii) extensive results demonstrating MCSS’s substantial improvement over existing Ground Station Networks and Data Relay Systems, motivating its role in the upcoming 6G NTNs. The space terminal, incorporating a multi-system, multi-orbit, and software-defined architecture, can handle Terabit-scale daily data volumes and minute-scale latencies. It offers a compact, power-efficient solution for properly integrating LEO platforms as space internet nodes.
 
 ---
 # General Thoughts
@@ -35,11 +34,12 @@ Also nice tables
 
 # Annotations
 
-| <mark class="hltr-grey"> Highlight Color</mark> | Meaning              |
-| ----------------------------------------------- | -------------------- |
-| <mark class="hltr-red">Red</mark>               | Disagree With Author |
-| <mark class="hltr-yellow">Yellow</mark>         | Neutral comments     |
-| <mark class="hltr-green">Green</mark>           | Aim to replicate     |
+| <mark class="hltr-grey"> Highlight Color</mark> | Meaning          |
+| ----------------------------------------------- | ---------------- |
+| <mark class="hltr-red">Red</mark>               | Aim to Improve   |
+| <mark class="hltr-yellow">Yellow</mark>         | Neutral comments |
+| <mark class="hltr-green">Green</mark>           | Aim to replicate |
+| <mark class="hltr-blue">Blue</mark>             | Further Reading  |
 
 - <mark class="hltr-yellow">"The exploration of leveraging LEO mega-constellation linksfor communication began with H. Al-Hraishawi et al. in 2021 [26], where multi-layer space information networks were considered. This concept was further expanded upon by G.Maiolini Capez et al. in 2023 with a detailed characterizationof the Mega-Constellation links for LEO Missions [27]. Inthe same year, H. Chougrani et al. contributed a feasibility study, emphasizing the significant potential of MCSS [28]."</mark> [Page 4](zotero://open-pdf/groups/5655478/items/IH34KBC6?page=4&annotation=HRQ332RF)
 	 - #further_reading

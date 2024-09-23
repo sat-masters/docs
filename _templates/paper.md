@@ -13,10 +13,11 @@ updated:
 ---
 
 # Paper Details
-|          |                                    |
-| -------- | ---------------------------------- |
-| Authors  | {{authors}}                        |
-| doi      | [{{DOI}}](https://doi.org/{{DOI}}) |
+|             |                                    |
+| ----------- | ---------------------------------- |
+| Authors     | {{authors}}                        |
+| Pulbication | {{publicationTitle}}               |
+| doi         | [{{DOI}}](https://doi.org/{{DOI}}) |
 >[!abstract]-
 >{{abstractNote}}
 
@@ -30,11 +31,12 @@ updated:
 {% endfor %}
 # Annotations
 
-| <mark class="hltr-grey"> Highlight Color</mark> | Meaning              |
-| ----------------------------------------------- | -------------------- |
-| <mark class="hltr-red">Red</mark>               | Disagree With Author |
-| <mark class="hltr-yellow">Yellow</mark>         | Neutral comments     |
-| <mark class="hltr-green">Green</mark>           | Aim to replicate     |
+| <mark class="hltr-grey"> Highlight Color</mark> | Meaning          |
+| ----------------------------------------------- | ---------------- |
+| <mark class="hltr-red">Red</mark>               | Aim to Improve   |
+| <mark class="hltr-yellow">Yellow</mark>         | Neutral comments |
+| <mark class="hltr-green">Green</mark>           | Aim to replicate |
+| <mark class="hltr-blue">Blue</mark>             | Further Reading  |
 
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
