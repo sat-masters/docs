@@ -1,13 +1,14 @@
 ---
 title: "On the Use of Mega Constellation Services in Space: Integrating LEO Platforms into 6G Non-Terrestrial Networks"
 aliases: 
-url: https://ieeexplore.ieee.org/abstract/document/10679201/authors#authors 
-doi: 10.1109/JSAC.2024.3459078 
+url: https://ieeexplore.ieee.org/abstract/document/10679201/authors#authors
+doi: 10.1109/JSAC.2024.3459078
 citekey: capezUseMegaConstellation2024
-tags: metrics, simulation, constellation-info, hardware-req, channel-coding 
+tags: metrics, simulation, constellation-info, hardware-req, channel-coding
 type: paper
 created: 
-updated:
+updated: 
+modified: 2024-09-24T10:59:45+02:00
 ---
 
 # Paper Details
