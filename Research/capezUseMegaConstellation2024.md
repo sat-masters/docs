@@ -1,14 +1,12 @@
 ---
 title: "On the Use of Mega Constellation Services in Space: Integrating LEO Platforms into 6G Non-Terrestrial Networks"
-aliases:
-  - On the Use of Mega Constellation Services in Space: Integrating LEO Platforms into 6G Non-Terrestrial Networks
-  - capezUseMegaConstellation2024
-url: https://ieeexplore.ieee.org/abstract/document/10679201/authors#authors
-doi: 10.1109/JSAC.2024.3459078
+aliases: 
+url: https://ieeexplore.ieee.org/abstract/document/10679201/authors#authors 
+doi: 10.1109/JSAC.2024.3459078 
 citekey: capezUseMegaConstellation2024
-keywords: Satellite broadcasting, Space vehicles, 6G, 6G mobile communication, Low earth orbit satellites, Low-Earth Orbit Satellites, Mega Constellations, Non-Terrestrial Networks, Optical fiber communication, Orbits, Relays
+tags: metrics, simulation, constellation-info, hardware-req, channel-coding 
 type: paper
-created:
+created: 
 updated:
 ---
 

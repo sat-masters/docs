@@ -1,14 +1,12 @@
 ---
 title: "{{title}}"
-aliases:
-  - {{title}}
-  - {{citekey}}
-url: {{url}}
-doi: {{DOI}}
-citekey: {{citekey}}
-keywords: {{allTags}}
+aliases: 
+url: {{ url }} 
+doi: {{ DOI }} 
+citekey: {{ citekey }}
+tags: {{allTags}} 
 type: paper
-created:
+created: 
 updated:
 ---
 
