@@ -1,13 +1,14 @@
 ---
 title: "Multi-Layer Space Information Networks: Access Design and Softwarization"
 aliases: 
-url: https://ieeexplore.ieee.org/document/9627690 
-doi: 10.1109/ACCESS.2021.3131030 
+url: https://ieeexplore.ieee.org/document/9627690
+doi: 10.1109/ACCESS.2021.3131030
 citekey: al-hraishawiMultiLayerSpaceInformation2021
-tags: Broadband connectivity, Earth, in-space backhauling, Internet, nanosatellites, non-geostationary (NGSO) satellite constellations, radio access design, Satellite broadcasting, Satellites, software-defined networking (SDN), space information network (SIN), space missions, Space missions, Space vehicles, space-based Internet providers 
+tags: Broadband connectivity, Earth, in-space backhauling, Internet, nanosatellites, non-geostationary (NGSO) satellite constellations, radio access design, Satellite broadcasting, Satellites, software-defined networking (SDN), space information network (SIN), space missions, Space missions, Space vehicles, space-based Internet providers
 type: paper
 created: 
-updated:
+updated: 
+modified: 2024-09-24T14:38:57+02:00
 ---
 
 # Paper Details
