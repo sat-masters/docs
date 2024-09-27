@@ -20,3 +20,7 @@
 - Performance Analysis
 	- Vs Legacy Downlink / Uplink
 - IP ?
+
+Some notes for interesting things to research
+- SpaceX can incorperate FSO for new downlink why cant we? 
+- How FSO can contribute to continous access instead of intermittent as RF will give you.
