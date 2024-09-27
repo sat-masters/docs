@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-zotero-desktop-connector",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "table-editor-obsidian",
+  "front-matter-timestamps"
 ]
