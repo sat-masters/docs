@@ -7,7 +7,7 @@ citekey: {{ citekey }}
 tags: {{allTags}} 
 type: paper
 created: 
-updated:
+modified:
 ---
 
 # Paper Details
