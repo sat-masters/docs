@@ -14,7 +14,11 @@ modified:
 |             |                                    |
 | ----------- | ---------------------------------- |
 | Authors     | {{authors}}                        |
-| Pulbication | {{publicationTitle}}               |
+{%- if publicationTitle -%}
+{{'\n'}}| Pulbication | {{publicationTitle}}               |
+{%- elif conferenceName -%}
+{{'\n'}}| Conference  | {{conferenceName}}                 |
+{%- endif %}
 | doi         | [{{DOI}}](https://doi.org/{{DOI}}) |
 >[!abstract]-
 >{{abstractNote}}
