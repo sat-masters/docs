@@ -17,6 +17,8 @@
 - [Iridium Satellite Communications ](https://www.iridium.com/)
 - [Kepler communications](https://kepler.space/)
 	- Building a satellite communication 
+- Space Development Agency (SDA)
+	-  an arm of the U.S. Space Force, is building a mesh network of satellites in low Earth orbit to serve as a data transport layer for the U.S. military.
 ### Potential customers
 
 
