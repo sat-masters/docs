@@ -13,6 +13,7 @@
 	- [Tracking and Data Relay Satellites - TDRSS](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
 - [TESAT](https://www.tesat.de/products)
 	- Satellite Laser Terminals
+	- (Also Mynaric and General Atomics)
 - [Iridium Satellite Communications ](https://www.iridium.com/)
 - 
 ### Potential customers

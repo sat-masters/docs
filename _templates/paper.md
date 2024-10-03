@@ -1,23 +1,27 @@
 ---
 title: "{{title}}"
-aliases:
-  - {{title}}
-  - {{citekey}}
-url: {{url}}
-doi: {{DOI}}
-citekey: {{citekey}}
-keywords: {{allTags}}
+aliases: 
+url: {{ url }} 
+doi: {{ DOI }} 
+citekey: {{ citekey }}
+tags: {{allTags}} 
 type: paper
-created:
-updated:
+created: 
+modified:
 ---
 
 # Paper Details
-|          |                                    |
-| -------- | ---------------------------------- |
-| Authors  | {{authors}}                        |
-| doi      | [{{DOI}}](https://doi.org/{{DOI}}) |
-| Abstract | {{abstractNote}}                   |
+|             |                                    |
+| ----------- | ---------------------------------- |
+| Authors     | {{authors}}                        |
+{%- if publicationTitle -%}
+{{'\n'}}| Pulbication | {{publicationTitle}}               |
+{%- elif conferenceName -%}
+{{'\n'}}| Conference  | {{conferenceName}}                 |
+{%- endif %}
+| doi         | [{{DOI}}](https://doi.org/{{DOI}}) |
+>[!abstract]-
+>{{abstractNote}}
 
 ---
 {% for note in notes -%}
@@ -29,11 +33,12 @@ updated:
 {% endfor %}
 # Annotations
 
-| <mark class="hltr-grey"> Highlight Color</mark> | Meaning              |
-| ----------------------------------------------- | -------------------- |
-| <mark class="hltr-red">Red</mark>               | Disagree With Author |
-| <mark class="hltr-yellow">Yellow</mark>         | Neutral comments     |
-| <mark class="hltr-green">Green</mark>           | Aim to replicate     |
+| <mark class="hltr-grey"> Highlight Color</mark> | Meaning          |
+| ----------------------------------------------- | ---------------- |
+| <mark class="hltr-red">Red</mark>               | Aim to Improve   |
+| <mark class="hltr-yellow">Yellow</mark>         | Neutral comments |
+| <mark class="hltr-green">Green</mark>           | Aim to replicate |
+| <mark class="hltr-blue">Blue</mark>             | Further Reading  |
 
 {% for annotation in annotations -%}
   {%- if annotation.annotatedText -%}
