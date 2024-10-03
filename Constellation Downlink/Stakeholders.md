@@ -15,7 +15,8 @@
 	- Satellite Laser Terminals
 	- (Also Mynaric and General Atomics)
 - [Iridium Satellite Communications ](https://www.iridium.com/)
-- 
+- [Kepler communications](https://kepler.space/)
+	- Building a satellite communication 
 ### Potential customers
 
 
