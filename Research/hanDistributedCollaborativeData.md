@@ -4,7 +4,7 @@ aliases:
 url: https://www.authorea.com/doi/full/10.36227/techrxiv.172349600.02868732?commit=4d2234826b7aa32b9408d55e6c0e6610c6dc6bd6 
 doi: 10.36227/techrxiv.172349600.02868732/v1 
 citekey: hanDistributedCollaborativeData
-tags:  
+tags: simulation, model, FSO, routing 
 type: paper
 created: 
 modified:
@@ -17,6 +17,32 @@ modified:
 | doi         | [10.36227/techrxiv.172349600.02868732/v1](https://doi.org/10.36227/techrxiv.172349600.02868732/v1) |
 >[!abstract]-
 >With the rapid development of large-scale Low Earth Orbit (LEO) satellite internet, Very Low Earth Orbit (VLEO) Earth observation constellations are increasingly using Inter-Satellite Links (LISLs) for cross-layer access to Internet satellites as an e
+
+---
+# Summary
+
+This paper primarily aims to develop an algorithm for routing in a collaborative system of 2 constellations.
+
+It is assumed that each constellation has ISL using FSO and linking between the constellation requires an intra layer link to convert into an inter layer link, thus changing the topology of the networks.
+
+The paper focuses on developing a distributed routing mechanism using graph optimization.
+
+# General Thoughts
+
+The paper presents FSO links as the only obvious solution to constellation relaying.  
+It may be because it deals with the cooperative system of two constellations, and in that sense, linking with FSO makes more obvious sense.
+
+## Stuff we can use
+
+Although the paper mostly deals with routing, there are some access models presented for FSO links, that could be of use.
+
+## Criticism
+
+When establishing the ISL FSO link, they assume that signaling is done using radio communication.  
+This makes sense as broadcasting is not possible with FSO links. However, they do not argue that the hardware is present, for this to be possible.  
+It may be a good idea to find out whether Starlink uses radio for signaling between constellation satellites.
+
+[Edit note](zotero://select/groups/5655478/items/NU4XI3XL)
 
 ---
 
