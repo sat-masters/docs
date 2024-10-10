@@ -1,13 +1,13 @@
 ---
 title: "Multi-Layer Space Information Networks: Access Design and Softwarization"
 aliases: 
-url: https://ieeexplore.ieee.org/document/9627690 
-doi: 10.1109/ACCESS.2021.3131030 
+url: https://ieeexplore.ieee.org/document/9627690
+doi: 10.1109/ACCESS.2021.3131030
 citekey: al-hraishawiMultiLayerSpaceInformation2021
-tags: Broadband connectivity, Earth, in-space backhauling, Internet, nanosatellites, non-geostationary (NGSO) satellite constellations, radio access design, Satellite broadcasting, Satellites, software-defined networking (SDN), space information network (SIN), space missions, Space missions, Space vehicles, space-based Internet providers 
+tags: 
 type: paper
 created: 
-updated:
+modified: 2024-10-07T09:44:54+02:00
 ---
 
 # Paper Details
@@ -67,24 +67,19 @@ There seemes to be not that much math, and the paper doesnt go into that much de
   <br>
 - <mark class="hltr-yellow">"However, interconnecting multiple satellite missions and constellations in an integrated fashion across multiple orbits will lead to a more densely and complex connected space information system for both radio access and backhauling."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=9FVA7LJE)
   <br>
-- <mark class="hltr-yellow">"(a) space-based Internet access provisioning for nanosat terminals, (b) scalable space backhauling using multi-layer SINs."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=VC4L764K)	 
-	- Main focus of this paper
+- <mark class="hltr-yellow">"(a) space-based Internet access provisioning for nanosat terminals, (b) scalable space backhauling using multi-layer SINs."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=VC4L764K)	 - Main focus of this paper
   <br>
-- <mark class="hltr-yellow">"This architecture is particularly favorable for the areas where acquiring gateway sites is difficult [16]."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=V8JN5GBR)	 
-	- A con against using traditional downlink methods
+- <mark class="hltr-yellow">"This architecture is particularly favorable for the areas where acquiring gateway sites is difficult [16]."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=V8JN5GBR)	 - A con against using traditional downlink methods
   <br>
-- <mark class="hltr-yellow">"Additionally, this SIN structure will allow a satellite system to function strategically by transmitting TT&C data between nanosat terminals and network control center (NCC) on the ground, which will provide coordination and awareness of the operational characteristics about each counterpart system, and thus, accomplish a successful coexistence without imposing detrimental interference to their concurrent transmissions [17]."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=AZX23J4M)	 
-	- Argument for using new downlink
+- <mark class="hltr-yellow">"Additionally, this SIN structure will allow a satellite system to function strategically by transmitting TT&C data between nanosat terminals and network control center (NCC) on the ground, which will provide coordination and awareness of the operational characteristics about each counterpart system, and thus, accomplish a successful coexistence without imposing detrimental interference to their concurrent transmissions [17]."</mark> [Page 3](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158589&annotation=AZX23J4M)	 - Argument for using new downlink
   <br>
 - <mark class="hltr-blue">"Additionally, some other research works focus on connecting the small satellites in the same orbit via a single-layer SIN. For example, the authors of [21] have proposed a self-organizing small satellite network architecture"</mark> [Page 4](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158590&annotation=G26L35VG)
   <br>
 - <mark class="hltr-blue">"Reference [22] has proposed a double-layer satellite network to utilize both LEO and medium earth orbit (MEO) satellites with focusing on the coverage performance and network transmission delay."</mark> [Page 4](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158590&annotation=VKY5H4XJ)
   <br>
-- <mark class="hltr-yellow">"Earth and Space Observation: This is one of the widespread uses of satellite constellations in different orbits including capturing high-resolution images of earth and outer space, remote sensing in various frequencies, RF monitoring, global navigation satellite system (GNSS) reflectometry, etc. • Asset Tracking: Satellite payload in asset tracking projects consists of a device equipped with communication components to collect information sent from objects on ground and to transmit it back to ground stations. • Meteorology: Nanosats are able to play an important role in storm detection and in the development of climate and weather models that enhance weather forecasts. For instance, NASA RainCube project has started the testing phase for the location, tracking and analysis of rain and snowstorms over the entire earth. • Agriculture: Crop monitoring is another potential use of nanosats, where a better control of harvests, the improvement of the quality of agricultural products, the finding of diseases in crops, and analysis of the ramifications derived from the periods of drought can be facilitated by using nanosats. • Educational Activities: The development of scientific experiments outside the earth has become another common application of small satellites, which are unprecedented opportunities brought up by nanosats with their myriad possibilities. • Government Space Programs: The goals of these government programs varies from national security to emergency response. Some other useful applications can be for protecting the environment through detection of forest fires, studying the progress of melting ice, fighting against ocean pollution, detection of oil spills, monitoring of marine life, controlling of desertification, etc."</mark> [Page 4](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158590&annotation=TFR739IH)	 
-	- Different mission categories. Can be used to find missions which would benefit from new downlink.
+- <mark class="hltr-yellow">"Earth and Space Observation: This is one of the widespread uses of satellite constellations in different orbits including capturing high-resolution images of earth and outer space, remote sensing in various frequencies, RF monitoring, global navigation satellite system (GNSS) reflectometry, etc. • Asset Tracking: Satellite payload in asset tracking projects consists of a device equipped with communication components to collect information sent from objects on ground and to transmit it back to ground stations. • Meteorology: Nanosats are able to play an important role in storm detection and in the development of climate and weather models that enhance weather forecasts. For instance, NASA RainCube project has started the testing phase for the location, tracking and analysis of rain and snowstorms over the entire earth. • Agriculture: Crop monitoring is another potential use of nanosats, where a better control of harvests, the improvement of the quality of agricultural products, the finding of diseases in crops, and analysis of the ramifications derived from the periods of drought can be facilitated by using nanosats. • Educational Activities: The development of scientific experiments outside the earth has become another common application of small satellites, which are unprecedented opportunities brought up by nanosats with their myriad possibilities. • Government Space Programs: The goals of these government programs varies from national security to emergency response. Some other useful applications can be for protecting the environment through detection of forest fires, studying the progress of melting ice, fighting against ocean pollution, detection of oil spills, monitoring of marine life, controlling of desertification, etc."</mark> [Page 4](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158590&annotation=TFR739IH)	 - Different mission categories. Can be used to find missions which would benefit from new downlink.
   <br>
-- <mark class="hltr-red">"However, realizing this concept faces many challenges from different aspects. Specifically, granting access for such a massive number of diversified users to the space-based Internet systems while taking into account the relative motion among different entities, variable QoS requirements, differential delays, and Doppler effects  FIGURE 3. Nanosat terminals connected to a space-based internet system.  are nontrivial tasks. Besides, networking and data packet routing of such a highly dynamic network considering the distinctive requirements of each information flow (e.g. TT&C versus observation data) need in-depth analysis of the communication protocols, ISL/IOL characteristics whether RF or optical, transmit power, bandwidth along with other system parameters."</mark> [Page 5](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158591&annotation=KZATB3YF)	 
-	- Challenges of the proposed solution
+- <mark class="hltr-red">"However, realizing this concept faces many challenges from different aspects. Specifically, granting access for such a massive number of diversified users to the space-based Internet systems while taking into account the relative motion among different entities, variable QoS requirements, differential delays, and Doppler effects...are nontrivial tasks. Besides, networking and data packet routing of such a highly dynamic network considering the distinctive requirements of each information flow (e.g. TT&C versus observation data) need in-depth analysis of the communication protocols, ISL/IOL characteristics whether RF or optical, transmit power, bandwidth along with other system parameters."</mark> [Page 5](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158591&annotation=C7LNUJEK)	 - Challenges of the proposed solution
   <br>
 - <mark class="hltr-yellow">"Besides, the time division multiple access (TDMA) method has been also considered and standardized in DVB-RCS (Digital Video Broadcasting-Return Channel via Satellite)"</mark> [Page 6](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158592&annotation=AGX9LZ4W)	 - Maybe figure out what DVB-RCS is used/made for?
   <br>
@@ -96,7 +91,7 @@ There seemes to be not that much math, and the paper doesnt go into that much de
 	 - #further_reading
 	 - Also regarding RAN
   <br>
-- <mark class="hltr-yellow">"Developing innovative radio access schemes for the multilayer SINs requires major research efforts due to the spatiotemporal heterogeneity of satellites across different orbits."</mark> [Page 6](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158592&annotation=T9SSQTNR)	- Why RAN is important to look into
+- <mark class="hltr-yellow">"Developing innovative radio access schemes for the multilayer SINs requires major research efforts due to the spatiotemporal heterogeneity of satellites across different orbits."</mark> [Page 6](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158592&annotation=T9SSQTNR)	 - Why RAN is important to look into
   <br>
 - <mark class="hltr-yellow">"The existing beamforming methods in ground-space integrated networks are performed at the user side but recently few satellite operators have shifted this process to the satellite side as in the recent advances employed by O3b mPower satellite constellation of SES and Starlink mega-constellation of SpaceX, where a dynamic digital beamforming is conducted at the satellites."</mark> [Page 6](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158592&annotation=BAL78D8S)	 - Starlink beamformer fra satelliten
   <br>
@@ -146,8 +141,7 @@ There seemes to be not that much math, and the paper doesnt go into that much de
 	 - #further_reading, #routing
 	 - Openflow
   <br>
-- <mark class="hltr-yellow">"innovative research directions can be inspired by utilizing the proposed concept such as empowering satellite constellations with storage and processing capabilities in a virtualized manner but that would lead to even more complicated slicing scenarios."</mark> [Page 10](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158596&annotation=EZRLT4YS)	 
-	- A proposal for future work could be for the megaconstellation to not only deliver connectivity but also compute and storage
+- <mark class="hltr-yellow">"innovative research directions can be inspired by utilizing the proposed concept such as empowering satellite constellations with storage and processing capabilities in a virtualized manner but that would lead to even more complicated slicing scenarios."</mark> [Page 10](zotero://open-pdf/groups/5655478/items/DDBWAMH3?page=158596&annotation=EZRLT4YS)	 - A proposal for future work could be for the megaconstellation to not only deliver connectivity but also compute and storage
   <br>
 
 
