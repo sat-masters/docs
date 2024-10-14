@@ -1,7 +1,10 @@
+---
+modified: 2024-10-14T15:58:27+02:00
+---
 One of the important things when connecting to a satellite mega constellation is to choose the right satellite to establish a connection with. 
 To determine this first a plot of availability of all the satellites can be found. 
 
-One of the main metrics to look at when establishing a connection is to look at how the angular separation/angular distance between the satellite and all of the satellites in the constellation changes over time. 
+One of the main metrics to look at when establishing a connection is to look at how the angular separation between the satellite and all of the satellites in the constellation changes over time. 
 
 In the following it is described how to calculate the angular distance between two satellites. 
 By knowing the Kepler orbital parameters, the 3D position of the satellites can be found in the ECI frame of refference. 
@@ -10,9 +13,13 @@ By knowing the Kepler orbital parameters, the 3D position of the satellites can 
 The angle to find is the angle between the vector describing the constellations satellite(CS) and the vector from the CS to the user satellite (US). 
 
 This angle can be found using the following equation: 
+
 $$\vec{C} \cdot (\vec{U}-\vec{C}) = \Vert\vec{C}\Vert \Vert(\vec{U}-\vec{C})\Vert \cos(\theta)$$
+
 Which can be written as: 
+
 $$ \theta  =\cos^{-1}\left( \frac{\vec{C} \cdot (\vec{U}-\vec{C})}{\Vert \vec{C} \Vert \Vert(\vec{U}-\vec{C})\Vert} \right)$$
+
 This can then be plotted for all the satellites in the constellation. 
 
 ![[cov_10_10.png]]
