@@ -10,9 +10,9 @@ By knowing the Kepler orbital parameters, the 3D position of the satellites can 
 The angle to find is the angle between the vector describing the constellations satellite(CS) and the vector from the CS to the user satellite (US). 
 
 This angle can be found using the following equation: 
-$$\vec{R} \cdot \vec{B} = \Vert\vec{R}\Vert \Vert\vec{B}\Vert \cos(\theta)$$
+$$\vec{C} \cdot (\vec{U}-\vec{C}) = \Vert\vec{C}\Vert \Vert(\vec{U}-\vec{C})\Vert \cos(\theta)$$
 Which can be written as: 
-$$ \theta  =\cos^{-1}\left( \frac{\vec{R} \cdot \vec{B}}{\Vert\vec{R}\Vert \Vert\vec{B}\Vert} \right)$$
+$$ \theta  =\cos^{-1}\left( \frac{\vec{C} \cdot (\vec{U}-\vec{C})}{\Vert \vec{C} \Vert \Vert(\vec{U}-\vec{C})\Vert} \right)$$
 This can then be plotted for all the satellites in the constellation. 
 
 ![[cov_10_10.png]]
