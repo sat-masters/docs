@@ -1,5 +1,5 @@
 ---
-modified: 2024-10-14T15:58:27+02:00
+modified: 2024-10-14T16:13:31+02:00
 ---
 One of the important things when connecting to a satellite mega constellation is to choose the right satellite to establish a connection with. 
 To determine this first a plot of availability of all the satellites can be found. 
