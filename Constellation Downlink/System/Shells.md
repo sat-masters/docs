@@ -6,4 +6,6 @@
 | Starlink Group 3 | 560      | 97.6        | 6        | 58          |           |
 | Starlink Group 4 | 540      | 53.2        | 72       | 22          |           |
 | Starlink Group X | 560      | 97.6        | 4        | 43          |           |
-| OneWeb           | 1200     | 87          | 18       | 40          |           |
+| OneWeb           | 1200     | 86.4        | 12       | 49          |           |
+| Kuiper           |          |             |          |             |           |
+| EDRS             |          |             |          |             |           |
