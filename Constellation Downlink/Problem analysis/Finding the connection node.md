@@ -25,3 +25,14 @@ This can then be plotted for all the satellites in the constellation.
 ![[cov_10_10.png]]
 The angle is denoted 0 when the CS is below the US FOV plane. 
 For this plot this FOV plane was made as horizontal plane meaning the US has a FOV of 180 degrees. This can be seen in the figure.
+
+The simplest way to connect to the satellites is to find the first available satellite and connect to that one. Then staying connected to this satellite until it's out of sight. Then connecting to the next available satellite. 
+In the following figure the angular seperation of a US in the orbit of the ISS with a walker delta constellation with 70 planes with 30 satellites in each plane. 
+![[Pasted image 20241015100016.png]]
+After using the algorithm to choose the satellites. The angular separation looks like this:
+![[Pasted image 20241015100024.png]]
+As it can be seen there is a lot of handovers. 
+%% TODO: Måske lave dem så de er lidt tydeligere hvor dårlig den her er%%
+
+
+- Skal vi også bruge distancen?
