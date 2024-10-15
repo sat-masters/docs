@@ -11,11 +11,11 @@ modified: 2024-10-07T09:44:54+02:00
 ---
 
 # Paper Details
-|             |                                    |
-| ----------- | ---------------------------------- |
-| Authors     | Hayder Al-Hraishawi, Mario Minardi, Houcine Chougrani, Oltjon Kodheli, Jesus Fabian Mendoza Montoya, Symeon Chatzinotas                        |
-| Pulbication | IEEE Access               |
-| doi         | [10.1109/ACCESS.2021.3131030](https://doi.org/10.1109/ACCESS.2021.3131030) |
+|             |                                                                                                                         |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Authors     | Hayder Al-Hraishawi, Mario Minardi, Houcine Chougrani, Oltjon Kodheli, Jesus Fabian Mendoza Montoya, Symeon Chatzinotas |
+| Pulbication | IEEE Access                                                                                                             |
+| doi         | [10.1109/ACCESS.2021.3131030](https://doi.org/10.1109/ACCESS.2021.3131030)                                              |
 >[!abstract]-
 >In this paper, we propose an approach for constructing a multi-layer multi-orbit space information network (SIN) to provide high-speed continuous broadband connectivity for space missions (nanosatellite terminals) from the emerging space-based Internet providers. This notion has been motivated by the rapid developments in satellite technologies in terms of satellite miniaturization and reusable rocket launch, as well as the increased number of nanosatellite constellations in lower orbits for space downstream applications, such as earth observation, remote sensing, and Internet of Things (IoT) data collection. Specifically, space-based Internet providers, such as Starlink, OneWeb, and SES O3b, can be utilized for broadband connectivity directly to/from the nanosatellites, which allows a larger degree of connectivity in space network topologies. Besides, this kind of establishment is more economically efficient and eliminates the need for an excessive number of ground stations while achieving real-time and reliable space communications. This objective necessitates developing suitable radio access schemes and efficient scalable space backhauling using inter-satellite links (ISLs) and inter-orbit links (IOLs). Particularly, service-oriented radio access methods in addition to software-defined networking (SDN)-based architecture employing optimal routing mechanisms over multiple ISLs and IOLs are the most essential enablers for this novel concept. Thus, developing this symbiotic interaction between versatile satellite nodes across different orbits will lead to a breakthrough in the way that future downstream space missions and satellite networks are designed and operated.
 
