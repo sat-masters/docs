@@ -25,11 +25,11 @@ Petar (online)
 	- How to choose the right satellite to connect up to 
 		- Choose the closest to destination or best connected satellite. 
 		- 
-	- Dependent on the data you want to send 
-	- Dependent over which part of earth you are. 
+		- Dependent on the data you want to send 
+		- Dependent over which part of earth you are. 
+		- Minimum time for a connection to be considered.
+		- Connection establishment time from 3GPPP
 	- Ask for QoS
-	- Minimum time for a connection to be considered. 
-	- Connection establishment time from 3GPPP
 - Traffic communication pattern 
 	- Random: ALOHA 
 	- Latency: At random point how much latency will there be. to coverage-> to delivery 
