@@ -8,3 +8,4 @@ Get Obsidian [here](https://obsidian.md/).
 
 Landing Page:
 [[index|Landing Page]]
+
