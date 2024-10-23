@@ -1,9 +1,7 @@
 [
-  "obsidian-auto-link-title",
-  "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "obsidian-zotero-desktop-connector",
-  "highlightr-plugin",
   "table-editor-obsidian",
-  "front-matter-timestamps"
+  "obsidian-auto-link-title",
+  "front-matter-timestamps",
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]
