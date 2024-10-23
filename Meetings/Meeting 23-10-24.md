@@ -1,10 +1,10 @@
 
 # Attendees:
-Jens 
-Albert 
-Petar 
-Israel
-JEns?
+- Jens 
+- Albert 
+- Petar 
+- Israel
+- JEns?
 # Agenda:
 
 - Present a plot before applying a policy for: 
