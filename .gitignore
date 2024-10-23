@@ -1,12 +1,26 @@
-# exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugins
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
 
-# exclude workspace cache
-.obsidian/workspace.json
+# OR only to exclude workspace cache
+.obsidian/workspace/*
 
-# exclude workspace cache specific to mobile devices
-.obsidian/workspace-mobile.json
+# Exclude plugins
+.obsidian/plugins/*
 
-# exclude OS settings and caches
+# Exclude consultant specific files "personal"
+05*-*Personal/
+
+# Exclude Day Planner directory placed in vault root
+Day*Planners/*
+
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+
+# Exclude Untitled Notes
+Untitled*
+# Exclude "bad" names
+null*
+
+# Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
