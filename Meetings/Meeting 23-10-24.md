@@ -4,7 +4,6 @@
 - Albert 
 - Petar 
 - Israel
-- JEns?
 # Agenda:
 
 - Present a plot before applying a policy for: 
@@ -22,3 +21,10 @@
 	- Downtime
 
 # Notes:
+
+- Tradeoff between best connection and longest connection
+- The discrete plot of signal strength and time.
+	- lower and upper bound on R 
+- The optimization problem
+- Route advertising 
+![[IMG_20241023_120218.jpg]]
