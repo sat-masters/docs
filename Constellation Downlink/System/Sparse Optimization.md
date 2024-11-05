@@ -118,4 +118,7 @@ for k in range(K):
 		values = [ones()*-1, ones()]
 	)
 
+bl = -inf
+bu = 0
+
 ```
