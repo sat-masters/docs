@@ -51,8 +51,8 @@ bu = 1
 ```
 
 **Transition constraint**
-$$s_{c,u,t} \geq x_{c,u,t}-x_{c,u,t-1}$$
-$$ -\infty \leq (x_{c,u,t} - x_{c,u,t-1}) - s_{c,u,t} \leq 0   $$
+$$s_{c,u,t} \geq x_{c,u,t}-x_{c,u,t-1} \quad \forall c,u,t$$
+$$ -\infty \leq (x_{c,u,t} - x_{c,u,t-1}) - s_{c,u,t} \leq 0  \quad \forall c,u,t $$
 ```python
 			# C  U  T
 A.indices = [[1, 0, 0]
