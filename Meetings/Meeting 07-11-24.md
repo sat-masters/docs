@@ -10,7 +10,8 @@ Israel?
 
 - Show the optimization problem: 
 Maximize: 
-$$f(x) = \sum (C\cdot x)-\sum(C\cdot x)$$
+$$f(x) = \sum (C\cdot x)-\sum(C\cdot y)$$
+
 
 Subject to: 
 $$\sum_C x_{c,u,t} \leq 1 \quad \forall u,t$$
@@ -32,3 +33,7 @@ $s \in \mathbb{B}^{C \times U \times T}$ is a he
 - 
 
 # Notes:
+Lav en low rate og en high rate
+
+Bruge latency og load
+Skifter lige nu kun på baggrund af rate, men måske skrifte i stedet på baggrund af routing. 
