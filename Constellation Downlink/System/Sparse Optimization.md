@@ -25,7 +25,7 @@ bu = 1
 ```
 
 **Initialization constraint**
-$$x_{c,u,0} = 1 \quad\forall c,u$$
+$$x_{c,u,0} = 0 \quad\forall c,u$$
 ```python     
 			# C  U  T
 A.indices = [[1, 0, 0]
@@ -44,8 +44,8 @@ H.append(     # range(), idex(C,U,T)
 	values = ones()
 )
 
-bl = 1
-bu = 1
+bl = 0
+bu = 0
 
 
 ```
