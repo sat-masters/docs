@@ -36,4 +36,11 @@ $s \in \mathbb{B}^{C \times U \times T}$ is a he
 Lav en low rate og en high rate
 
 Bruge latency og load
+Control resourcer (Hvordan får man fat i dem )
+Spilteori (Vi kæmper mod andre satelliter ikke naturen)
 Skifter lige nu kun på baggrund af rate, men måske skrifte i stedet på baggrund af routing. 
+R/n
+Lige nu antager vi at kapaciteten af cs ikke er et problem. 
+Bidding på alpha for US - sidste stadie
+
+
