@@ -1,3 +1,6 @@
+---
+modified: 2024-12-02T00:50:01+01:00
+---
 **Single-assignment constraint:**
 $$\sum_C x_{c,u,t} \leq 1 \quad \forall u,t$$
 ```python     
