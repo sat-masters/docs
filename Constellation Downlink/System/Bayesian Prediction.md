@@ -1,16 +1,24 @@
 ---
 created: 2024-12-02T00:48:58+01:00
-modified: 2024-12-02T00:48:58+01:00
+modified: 2024-12-02T01:33:38+01:00
 ---
 Read More about
 - MCMC
 - Bayesian timeseries
 
+Find Papers on
+- NTN uplink distributions
+- 5G RAN Game Theory Resource Allocation
+- Multi-Solution Optimization Problems
+
+
+
 Prior distribution
 - distribution parameterised by tuple (position, time)
-- Possion Point proccess
+- Poisson Point process
 - Shot Noise Process
 - Markov model / queue model (user connects / disconnects with some rate)
+- Ask Israel about state of the art models
 
 Observation
 - UE sat asks "next" satellites at some points in time for $\alpha$ 
