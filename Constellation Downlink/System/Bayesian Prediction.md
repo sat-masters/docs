@@ -1,6 +1,6 @@
 ---
 created: 2024-12-02T00:48:58+01:00
-modified: 2024-12-02T01:33:38+01:00
+modified: 2024-12-02T02:10:57+01:00
 ---
 Read More about
 - MCMC

@@ -1,13 +1,13 @@
 ---
-title: "Signal Structure of the Starlink Ku-Band Downlink"
+title: Signal Structure of the Starlink Ku-Band Downlink
 aliases: 
-url: https://ieeexplore.ieee.org/document/10107477/ 
-doi: 10.1109/TAES.2023.3268610 
+url: https://ieeexplore.ieee.org/document/10107477/
+doi: 10.1109/TAES.2023.3268610
 citekey: humphreysSignalStructureStarlink2023
-tags:  
+tags: 
 type: paper
 created: 
-modified:
+modified: 2024-12-02T02:10:59+01:00
 ---
 
 # Paper Details
