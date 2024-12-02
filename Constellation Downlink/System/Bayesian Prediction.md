@@ -23,6 +23,7 @@ Prior distribution
 Observation
 - UE sat asks "next" satellites at some points in time for $\alpha$ 
 - Posterior uncertainty dictates time of next inquiry
+	- $\alpha$ of future connection may be relevant to previous choice
 - Optimize frequency of inquiry vs uncertainty of model
 	- Maximise entropy of and minimize cost of inquiry
 	- Maximum entropy is where the model has highest uncertainty
