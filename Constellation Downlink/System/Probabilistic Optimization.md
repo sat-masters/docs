@@ -1,5 +1,5 @@
 ---
-modified: 2024-12-09T15:28:18+01:00
+modified: 2024-12-09T15:33:23+01:00
 ---
 The optimization problem aims to maximise the probability that the requested resources ($Q$) will be satisfied by the decision variable $x$
 
@@ -33,9 +33,10 @@ $$
  $R_t$ can be defined as: 
  
  $$
- \begin{equation}
- R_t(a,c,x)=(1-a) c x
- \end{equation}
+\begin{aligned}
+ R_t(a,c,x)&=(1-a) c x\\
+ f_{R_t} &= f
+\end{aligned}
  $$
 
 Where a is the utilization of the specific constellation satellite. c is the shannonrate of the channel. x is the binary decision variable. 
