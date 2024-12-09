@@ -17,7 +17,5 @@ Where $F_x(q)$ is the joint CDF for $R_t$ for all t.
 The CDF of x can be found as the integral of th convolution of the probability density function of the rates R: 
 $$F_x(q) = \int_{-\infty}^{\infty}(f_{R_1} * f_{R_2}*...*f_{R_T})(s)ds$$
  $R_t$ can be defined as: 
- $$R_t(a,c,x)=a\cdot c \cdot x$$
-
-
-
+ $$R_t(a,c,x)=(1-a) c x$$
+Where a is the utilization of the specific constellation satellite. c is the shannonrate of the channel. x is the binary decision variable. 
