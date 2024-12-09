@@ -35,7 +35,11 @@ $$
  $$
 \begin{aligned}
  R_t(a,c,x)&=(1-a) c x\\
- f_{R_t} &= f
+ f_{R_t}(s) &= 
+ \begin{cases}
+ \frac{1}{c} f_a(1-\frac{s}{c}) & x = 1\\
+ \delta(s) & x = 0 
+ \end{cases}
 \end{aligned}
  $$
 
