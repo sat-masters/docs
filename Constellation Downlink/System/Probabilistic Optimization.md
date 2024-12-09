@@ -1,5 +1,5 @@
 ---
-modified: 2024-12-09T15:26:31+01:00
+modified: 2024-12-09T15:28:18+01:00
 ---
 The optimization problem aims to maximise the probability that the requested resources ($Q$) will be satisfied by the decision variable $x$
 
@@ -26,10 +26,16 @@ Where $F_x(q)$ is the joint CDF for $R_t$ for all t.
 
 The CDF $F_x$ can be found as the integral of the convolution of the probability density function of the rates R:
 
-$$F_x(q) = \int_{-\infty}^{\infty}(f_{R_1} * f_{R_2}*...*f_{R_T})(s)\, \mathrm{d}s$$
+$$
+F_x(q) = \int_{-\infty}^{\infty}(f_{R_1} * f_{R_2}*...*f_{R_T})(s)\, \mathrm{d}s
+$$
 
  $R_t$ can be defined as: 
  
- $$R_t(a,c,x)=(1-a) c x$$
+ $$
+ \begin{equation}
+ R_t(a,c,x)=(1-a) c x
+ \end{equation}
+ $$
 
 Where a is the utilization of the specific constellation satellite. c is the shannonrate of the channel. x is the binary decision variable. 
