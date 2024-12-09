@@ -32,7 +32,7 @@ $$
 
  $R_t$ can be defined as: 
  
- $$
+$$
 \begin{aligned}
  R_t(a,c,x)&=(1-a) c x\\
  f_{R_t}(s) &= 
