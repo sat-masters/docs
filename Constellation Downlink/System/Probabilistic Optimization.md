@@ -19,7 +19,9 @@ $Q$ is the requested average throughput for the time period $[t\dots t+T]$.
 
 The probability of observing an output, higher or lower than a constant is better described by a CDF: 
 
-$$\mathbb{P}(\frac{1}{T}\sum_t^T(R_{t}(a,c,x))\geq Q) = 1-F_x(Q)$$
+$$
+\mathbb{P}(\frac{1}{T}\sum_t^T(R_{t}(a,c,x))\geq Q) = 1-F_x(Q)
+$$
 
 Where $F_x(q)$ is the joint CDF for $R_t$ for all t.  
 
