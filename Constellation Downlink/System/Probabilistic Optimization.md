@@ -1,5 +1,5 @@
 ---
-modified: 2024-12-10T09:53:11+01:00
+modified: 2024-12-10T10:06:53+01:00
 ---
 This section assumes that we know the distribution for the utilisation of all satellites at all times.
 In reality, these random variables would follow unknown distributions that would need to be estimated online.   
