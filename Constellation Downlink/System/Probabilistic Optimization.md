@@ -1,5 +1,5 @@
 ---
-modified: 2024-12-09T15:33:23+01:00
+modified: 2024-12-10T09:53:11+01:00
 ---
 The optimization problem aims to maximise the probability that the requested resources ($Q$) will be satisfied by the decision variable $x$
 
