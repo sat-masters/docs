@@ -48,12 +48,18 @@ osv...
 
 - Choosing the best link for each time slot
 - Optimizing for throughput
-- results 
-  - with/without handover time
+- results
+   - with/without handover time
+   
+
   - with/without discrete modcods
   - with/without satellite utilization
 
+
 = Ideas
 
-== 
-
+== Satellite utilization
+- Utilization modeling 
+- Models based onearth cell not satellite
+- simple model (high / low utilization)
+- queuing model (M/M/1)
