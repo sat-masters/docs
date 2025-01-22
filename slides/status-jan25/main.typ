@@ -51,9 +51,9 @@ osv...
 - results
    - with/without handover time
    
-
-  - with/without discrete modcods
-  - with/without satellite utilization
+== Discrete MODCODs 
+- From
+ht
 
 
 = Ideas
@@ -63,3 +63,10 @@ osv...
 - Models based onearth cell not satellite
 - simple model (high / low utilization)
 - queuing model (M/M/1)
+
+== Optimization reframing
+- Minimize chance of failure to meet requirements
+- Distributions instead of expectations
+- Seperate optimization levels
+  - Best physical links
+  - of N candidates, choose one based on utilization 
