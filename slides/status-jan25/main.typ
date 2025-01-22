@@ -1,3 +1,5 @@
+#import "@preview/touying:0.5.5": *
+#import themes.university: *
 
 == Definition of the problem
 
