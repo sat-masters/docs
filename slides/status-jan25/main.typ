@@ -51,12 +51,12 @@ osv...
 - results
    - with/without handover time
    
-== Discrete MODCODs 
-- From
-ht
 
 
 = Ideas
+
+== Discrete MODCODs 
+-  Since the intersatellite links use MODCODs the achievable throughput is discrete 
 
 == Satellite utilization
 - Utilization modeling 
@@ -68,5 +68,11 @@ ht
 - Minimize chance of failure to meet requirements
 - Distributions instead of expectations
 - Seperate optimization levels
-  - Best physical links
+  - Best physical links + modcod
   - of N candidates, choose one based on utilization 
+
+== Implementation (hurdles)
+- The optimization problem becomes a large very sparse problem to solve
+- Seperate the problem into a deterministic part (done on central server), and a stochastic part(done on the UE)? 
+- Multiarm bandit
+
