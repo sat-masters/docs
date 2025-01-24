@@ -20,3 +20,6 @@ Petar ved tavlen
 Dynamic programming
 Dijkstra in time not in space
 Waiting for a crossing of the lines 
+
+Petar efter:
+delta t skal ikke blive for stor en del af hele T. 
