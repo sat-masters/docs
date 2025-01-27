@@ -16,7 +16,7 @@ Shorter time to
 
 Petar ved tavlen 
 - Try to make it into frames
-- Indsæt billede
+- ![[Pasted image 20250127091401.png]]
 Dynamic programming
 Dijkstra in time not in space
 Waiting for a crossing of the lines 
