@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] [[Detecting change in link hierarchy]]
 - [ ] Build graph of link decisions
 - [ ] Consistent setup for solving using LP
-- [ ] Rewrite to use skyfield instead
+- [ ] Investigate skyfield
 
 
 ## Research / Reading
