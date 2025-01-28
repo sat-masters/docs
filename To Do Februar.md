@@ -11,13 +11,13 @@ kanban-plugin: board
 - [ ] Filtering Visible satellites for $T_W$
 - [ ] Sorting links by channel quality
 - [ ] [[Detecting change in link hierarchy]]
-- [ ] Build graph of link decisions
 - [ ] Consistent setup for solving using LP
 - [ ] Investigate skyfield
 
 
 ## Research / Reading
 
+- [ ] Build graph of link decisions
 
 
 ## Programming
