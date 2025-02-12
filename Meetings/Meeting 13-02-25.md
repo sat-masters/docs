@@ -29,6 +29,6 @@ Worked on:
 	* Computational complexity in or out of scope
 
 ## Visuals:
-
+![[Pasted image 20250212105834.png]]
 
 # Notes:
