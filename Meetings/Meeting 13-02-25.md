@@ -11,16 +11,24 @@ Presentation follow up
 	- Bellman-ford
 	- Longest path (sp with neg weights)
 - Jimmy crossings
-	- Reduce  
-Prepare the following visuals
+	- Reduce search space of allocation changing times
+	- Reduce what sats can be changed from -> to
+
+Worked on:
 - Temporal lattice graph
 	- Longest path solution
 	- Weights (Point estimate vs Distribution )
 * Reduced graphs
 	* Ideas for graph building techniques
+	* throughput ranking 
+	* slope ranking
 * Antenna gain model
 	* plots her
 * Numerical vs Analytical
 	* parametrize orbits -> gain function
 	* Computational complexity in or out of scope
+
+## Visuals:
+
+
 # Notes:
