@@ -30,5 +30,5 @@ Worked on:
 
 ## Visuals:
 ![[Pasted image 20250212105834.png]]
-
+![[Pasted image 20250212112525.png]]![[Pasted image 20250212112808.png]]
 # Notes:
