@@ -10,7 +10,8 @@ Presentation follow up
 	- Dijkstra
 	- Bellman-ford
 	- Longest path (sp with neg weights)
-- Jimmy crossings
+- Jimmy Nielsen 
+- crossings
 	- Reduce search space of allocation changing times
 	- Reduce what sats can be changed from -> to
 
