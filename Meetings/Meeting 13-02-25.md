@@ -41,4 +41,23 @@ Future Work
 ![[Pasted image 20250212114230.png]]
 ![[Pasted image 20250213130652.png]]
 # Notes:
-- 
+- Not go in the diretion of modelling the traffic in the constellation satellites
+- Take the trafic models from other papers. 
+	- latency profile for ground to sat has been done but not sat to sat (could be our contribution)
+	- average latency for packets arriving 
+	- estimate the latency through the constellation satellite to the destination (could be ground or another satellite)
+	- For our user satellite 
+		- make fixed packets arriving with a specific rate 
+	- make a constant rate 
+	- Network calculus 
+	- What to optimize for:
+		- Start off by just 
+		- 
+
+Read papers about modelling traffic if easy, use that. if not use normals
+Less uncertainty with less satellites adding variance when doing convolution 
+
+
+
+Accept a link with lower rate now rather than wait for a higher throughput 
+
