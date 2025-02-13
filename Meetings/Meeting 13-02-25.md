@@ -56,8 +56,11 @@ Future Work
 
 Read papers about modelling traffic if easy, use that. if not use normals
 Less uncertainty with less satellites adding variance when doing convolution 
+Connection leads to discovery. 
+Preplanned optization vs. unceartenty in satellite utilization. If the unceartenty of the satellite utilization is high the preplanning doesnt give really that much clarity as we doesnt really know the capacity of the satellites anyway. 
 
-
-
-Accept a link with lower rate now rather than wait for a higher throughput 
+Moving window?
+Sliding window 
+Size of window vs how long we are connected
+When the rate actually is very low we might also want to make switch (this is when the unceartenty is higher). 
 
