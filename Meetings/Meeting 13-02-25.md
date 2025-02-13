@@ -51,7 +51,7 @@ Future Work
 	- make a constant rate 
 	- Network calculus 
 	- What to optimize for:
-		- Start off by just 
+		- Start off by just doing what we are doing
 		- 
 
 Read papers about modelling traffic if easy, use that. if not use normals
