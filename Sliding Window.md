@@ -1,3 +1,8 @@
 - [ ] Requires propablity optimization
 - [ ] Solution should be re-evaluated for each $T_W$ sliding across $T_{max}$ 
 	- [ ] Re-evaluation should use efficient _rerun_ of bellman ford 
+	- [ ] Update distribution of current NS 
+	- [ ] Set future nodes of current NS weight to inf
+	- [ ] keep other nodes same weight as before
+	- [ ] Maybe think about better optimizations ?
+- [ ] Instead 
