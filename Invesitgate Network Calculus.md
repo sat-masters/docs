@@ -1,0 +1,7 @@
+- [ ] Constant traffic generation
+	- [ ] Arrival rate $\lambda$ 
+	- [ ] Package size $L$
+- [ ] Buffer Size 
+- [ ] Probability of lost package / buffer overflow
+- [ ] Check Solution for obvious use-case 
+	- 

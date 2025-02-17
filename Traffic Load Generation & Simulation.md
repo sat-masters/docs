@@ -1,2 +1,2 @@
 * For now we are using poisson distributions
-* Later 
+* Later maybe find a more realistic model from relevant study
