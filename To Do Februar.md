@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] [[Invesitgate Network Calculus]]
 - [ ] [[Sliding Window]]
+- [ ] Create Tests & Fixtures for stochastic capacity
 
 
 ## Research / Reading

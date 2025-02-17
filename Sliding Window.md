@@ -1,3 +1,3 @@
-- [ ] Reque
-- [ ] Solution should be reevaluated for each $T_W$ sliding across $T_{max}$ 
-- [ ] 
+- [ ] Requires propablity optimization
+- [ ] Solution should be re-evaluated for each $T_W$ sliding across $T_{max}$ 
+	- [ ] Re-evaluation should use efficient _rerun_ of bellman ford 
