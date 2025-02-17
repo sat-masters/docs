@@ -1,0 +1,3 @@
+- [ ] Reque
+- [ ] Solution should be reevaluated for each $T_W$ sliding across $T_{max}$ 
+- [ ] 
