@@ -57,7 +57,7 @@ Future Work
 Read papers about modelling traffic if easy, use that. if not use normals
 Less uncertainty with less satellites adding variance when doing convolution 
 Connection leads to discovery. 
-Preplanned optization vs. unceartenty in satellite utilization. If the unceartenty of the satellite utilization is high the preplanning doesnt give really that much clarity as we doesnt really know the capacity of the satellites anyway. 
+Preplanned optization vs. unceartenty in satellite utilization. If the unceartenty of the satellite utilization is high the preplanning doesnt give really that much clarity as we dont really know the capacity of the satellites anyway. 
 
 Moving window?
 Sliding window 
