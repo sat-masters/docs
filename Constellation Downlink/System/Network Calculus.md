@@ -6,3 +6,5 @@ $A(\tau, t) = A(t) - A(\tau)$ & $S(\tau, t) = S(t) - S(\tau)$ where $A(t)$ is th
 Alternatively we can use the following definition:
 $$B(t) = A(t) - D(t)$$
 where $$D(t) = \min_{\tau \in [0,t]} \{A(\tau)+S(\tau,t)\}$$
+$$D(t) = \min_{\tau \in [0,t]} \{A(\tau)+S(t)-S(\tau)\}$$
+$$B(t) = A(t) - D(t)$$
