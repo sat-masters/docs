@@ -1,2 +1,2 @@
 From [[fidlerGuideStochasticNetwork2015]] we have the following definition of the backlog
-$$B(t) \leq \max_{\tau \in [0,t]} \{ A(\tau, t) - S\}$$
+$$B(t) \leq \max_{\tau \in [0,t]} \{ A(\tau, t) - S(\tau,t)\}$$Where $B(t)$ is the length of the back
