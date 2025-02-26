@@ -1,1 +1,7 @@
-### Number of users connected
+### Number of users connected to satellite/utilization is constant for the entire T_W
+
+### Number of users is poisson distributed
+
+### The penalty/cost of connecting to a new satellite is a fraction of T_a. 
+This could in principle be a longer time than T_a but that makes the problem harder and able to grow to infinity since we give more penalty than we can allocate, meaning if we switch every time instances the problem becomes weird. 
+###  
