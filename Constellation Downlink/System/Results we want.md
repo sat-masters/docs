@@ -11,3 +11,4 @@
 #### Complexity of the different solutions? 
 Maybe this can be found just analytically?
 
+#### Maybe also try changing the T_w to see what of the algori
