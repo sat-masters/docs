@@ -9,5 +9,7 @@ This could in principle be a longer time than T_a but that makes the problem har
 
 ### 
 
+### Qeueue length = 0 at start of T_w?
+
 
 ###  Assume same communication standard for all satellites(might be relevant if we do combination of both starlink and OW)
