@@ -7,7 +7,9 @@ This could in principle be a longer time than T_a but that makes the problem har
 
 ### Routing/finding the end node is handled by the constellation
 
-### The position of the constellation satellites is known
+### The position of the constellation satellites is known deterministically
+
+
 
 ### Qeueue length = 0 at start of T_w?
 
