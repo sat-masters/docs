@@ -11,6 +11,7 @@ This could in principle be a longer time than T_a but that makes the problem har
 
 
 
+
 ### Qeueue length = 0 at start of T_w?
 
 
