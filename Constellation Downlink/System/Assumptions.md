@@ -4,4 +4,8 @@
 
 ### The penalty/cost of connecting to a new satellite is a fraction of T_a. 
 This could in principle be a longer time than T_a but that makes the problem harder and able to grow to infinity since we give more penalty than we can allocate, meaning if we switch every time instances the problem becomes weird. 
-###  
+
+### Routing/fin
+
+
+###  Assume same communication standard for all satellites(might be relevant if we do combination of both starlink and OW)
