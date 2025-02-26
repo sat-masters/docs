@@ -11,4 +11,8 @@
 #### Complexity of the different solutions? 
 Maybe this can be found just analytically?
 
-#### Maybe also try changing the T_w to see what of the algori
+#### Maybe also try changing the T_w to see what of the algorithms are feasable over longer time periods? 
+May just be included in the one above as we may also be able to see the complexity grow as the time dimension grows? 
+
+#### How small should T_a be vs performance?
+
