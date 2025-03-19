@@ -12,7 +12,7 @@ What we have been working on:
 2. Backlog length 
 3. Time in the backlog
 - The last two are not probabilities
-- 
+![[Messenger_creation_640D65A8-82CA-4EAC-9806-DC617CF43EFC.jpeg]]
 
 Our problems right now
 - Variance 
