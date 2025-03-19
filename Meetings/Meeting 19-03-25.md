@@ -10,7 +10,9 @@ What we have been working on:
 - Using network calculus to create arrival, departure, service curves and backlog curves. 
 1. Tried to minimize the probability of overflow in the buffer. 
 2. Backlog length 
+	1. Have this working
 3. Time in the backlog
+	1. Implementation issues
 - The last two are not probabilities
 ![[Messenger_creation_640D65A8-82CA-4EAC-9806-DC617CF43EFC.jpeg]]
 
