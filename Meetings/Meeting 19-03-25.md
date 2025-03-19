@@ -31,4 +31,12 @@ Meetings more often/ regularly?
 
 # Notes:
 
-kar
+Make a rate/latency curve THis is the important part 
+
+
+
+Make burstiness 
+Fix arrivalrate change burstiness
+Fix burstiness change arrivalrate
+
+
