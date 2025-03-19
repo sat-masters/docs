@@ -30,3 +30,5 @@ Meetings more often/ regularly?
 
 
 # Notes:
+
+kar
