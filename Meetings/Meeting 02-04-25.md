@@ -10,7 +10,7 @@ Israel
 Miscelaneous things:
 - Exam date
 - Business meeting date
-System model:
+System model
 
 
 # Notes:
