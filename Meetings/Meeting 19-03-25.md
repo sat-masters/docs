@@ -3,7 +3,7 @@
 
 Petar 
 Israel 
-Albert 
+Albert (online)
 Jens 
 # Agenda:
 What we have been working on: 
