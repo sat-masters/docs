@@ -6,18 +6,13 @@ kanban-plugin: board
 
 ## To Do
 
-- [ ] Redefine Timeslots & Link Establishment
-- [ ] Traffic / Load Generation & Simulation
-- [ ] Filtering Visible satellites for $T_W$
-- [ ] Sorting links by channel quality
-- [ ] [[Detecting change in link hierarchy]]
-- [ ] Consistent setup for solving using LP
-- [ ] Investigate skyfield
+- [ ] [[Invesitgate Network Calculus]]
+- [ ] [[Sliding Window]]
+- [ ] Create Tests & Fixtures for stochastic capacity
 
 
 ## Research / Reading
 
-- [ ] Build graph of link decisions
 
 
 ## Programming
@@ -26,12 +21,24 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] Redefine Timeslots & Link Establishment
+- [ ] Filtering Visible satellites for $T_W$
+- [ ] Sorting links by channel quality
+- [ ] Consistent setup for solving using LP
+- [ ] [[Detecting change in link hierarchy]]
+- [ ] Investigate skyfield
+- [ ] Build graph of link decisions
+
+
+## Wait
+
+- [ ] [[Traffic Load Generation & Simulation]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
