@@ -30,20 +30,22 @@ Graph
 
 What do we need to attatch these things to the network is the next thing. 
 
-Numba vectorization
-Things that can run in parallel
-Pipeline 
+Compute: 
+	Numba vectorization
+	Things that can run in parallel
+	Pipeline 
 
 Introduction 
 Motivation
 A short easy to understand algorithm 
 
-what is your product: 
-Is the guidance the satellite 
-The communication system 
-Customer: GOMspace 
+What we need before business meeting
+	what is your product: 
+		Is the guidance the satellite 
+		The communication system 
+	Customer: GOMspace 
 
-Application areas: 
+	Application areas: 
 
 Attachment 
 
@@ -51,21 +53,21 @@ IRIS2 is going 5G
 
 Shell around 5G 
 
-Who is the stupid competitor. 
+	Who is the stupid competitor. 
 
 Sell the interface. 
 
-Focus on the capacity on satellites. 
+Focus on the data storage capacity on satellites. 
 
-Selling points. 
+	Find the selling points. 
 lower latency
 Lower capacity 
 
-Key IPR
-Taking existing interface and put our on top. 
+	Key IPR
+		Taking existing interface and put our on top. 
 
 Find competitors 
 
-Figure out the lavel of maturity we have to present 
+Figure out the level of maturity we have to present 
 
-ESA BIG. 
+ESA BIC. 
