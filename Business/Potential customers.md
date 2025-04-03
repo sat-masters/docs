@@ -8,6 +8,7 @@
 	- To get near realtime data of the battlefield is very important. 
 - Hyperspectral imaging 
 	- These missions create a large amount of data. Since the datalink is continous the amount of data that can be generated and downlinked can increase. 
+- https://www.planet.com/
 
 ### Scenario 2 Relay for ground user: 
 6GnB

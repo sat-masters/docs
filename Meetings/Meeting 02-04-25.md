@@ -19,7 +19,7 @@ Should we focus on optimizing the solution we have now or just say "We get a big
 1. flying devince 
 	1. generating data
 2. Relay for ground device 
-	1. Genrated on earth 
+	1. Generated on earth 
 3. Increase coverage to other satellites 
 
 Just say we focus on one of the above (flying device)
@@ -37,7 +37,7 @@ Compute:
 
 Introduction 
 Motivation
-A short easy to understand algorithm 
+A short easy to understand overview algorithm 
 
 What we need before business meeting
 	what is your product: 
@@ -57,11 +57,11 @@ Shell around 5G
 
 Sell the interface. 
 
-Focus on the data storage capacity on satellites. 
+ 
 
 	Find the selling points. 
-lower latency
-Lower capacity 
+		lower latency
+		Focus on the data storage capacity on satellites. 
 
 	Key IPR
 		Taking existing interface and put our on top. 
@@ -70,4 +70,3 @@ Find competitors
 
 Figure out the level of maturity we have to present 
 
-ESA BIC. 
