@@ -4,6 +4,7 @@ There are several diffferent places to put the interface between our product and
 We build the radio unit with the software on it. The customers should just build our radio into their satellite. 
 #### Pros: 
 - It is easy for the customer to understand what they are buying  
+- We have control of everything
 #### Cons: 
 - We have to build a radio as well, which will take a lot of development time. 
 - Something about interference mannagement: We have to make sure we arent creating too much noise and so on(What are the rules in space pointing away from earth?)
@@ -12,26 +13,37 @@ We build the radio unit with the software on it. The customers should just build
 We build the radio unit with the software on it. The customers should just build our radio into their satellite. 
 #### Pros: 
 - It is easy for the customer to understand what they are buying
-- 
+- Potentially cheaper to get a product to market
 #### Cons: 
 - We will not have control over the radio, which can lead to integration issues and less agility as we need to conform to the product we are buying
 
 
 
-## Interface 3: Selling the "find the best satellite" as a service
+## Interface 3: Licensing the software. 
+Just deliver software
+
 
 #### Pros: 
 - We dont need to touch hardware really
 
 #### Cons: 
 - Dont know if the algorithm is even so good that it would be interesting for the users to buy. 
-## Interface 4: Partnering with mega constellations
+
+## Interface 4: Selling the "find the best satellite" as a service, including server capacity for the deterministic calculatiuons??
 
 #### Pros: 
 
 #### Cons: 
 
-## Interface 4: Some sort of broker service:
+
+
+## Interface 5: Partnering with mega constellations
+
+#### Pros: 
+
+#### Cons: 
+
+## Interface 6: Some sort of broker service:
 We buy a large chunck of communications from a mega constellation and sell it to multiple satellite operators. 
 
 #### Pros: 
