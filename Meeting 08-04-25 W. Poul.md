@@ -64,3 +64,8 @@ ministeriet godkender
 allokering af penge af til at støtte en virksomhed 
 ITT er noget ESA lægger ud efter. 
 Og det er så de penge vi kan få. 
+
+Vi laver noget vi kan sende til ham i enden af ugen. 
+Et overblik over systemet, som vi kan sende. 
+
+En 
