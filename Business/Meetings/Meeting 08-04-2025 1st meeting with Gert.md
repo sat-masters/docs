@@ -17,3 +17,18 @@ AWS som server.
 
 DT til demonstration
 
+Cyber security 
+
+Plads på payloaden 
+
+Buisness model 
+
+Stå sammen mod starlink
+
+Husk også at snakke med mega konstellationer. 
+
+ESA GSTP
+
+Tag kampen op mod starlink 
+
+SWOT
