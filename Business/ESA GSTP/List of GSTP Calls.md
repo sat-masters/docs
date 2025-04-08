@@ -4,8 +4,7 @@
 
 
 
-Resilient remote and distributed, multi-centre, multi-asset operations 
-- GT17-669GD
+
 
 Evolved operational user interfaces
 -  GT17-670GD
@@ -13,6 +12,9 @@ Evolved operational user interfaces
 Disruption Tolerant Networking (DTN) network management 
 - Ref: GT17-675GS
 ----------------------------------------------
+Resilient remote and distributed, multi-centre, multi-asset operations 
+- GT17-669GD
+
 
 Data relay RF simulator system
 -  GT17-622ES
