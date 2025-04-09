@@ -20,6 +20,58 @@ To make a true "space internet " we can connect satellites to LEO infrastruture.
 		* Talk with someone. 
 		* Can we ask for more?
 
+Maskinens forslag: 
+"
+### Technology Outline and Technical Work
+
+This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication—starting not with Mars, but with **Earth observation satellites**. Our proposal views the **creation of a true Solar System Internet** as a staged process, beginning by connecting EO satellites via **existing Low Earth Orbit (LEO) infrastructure**, such as mega-constellations.
+
+Currently, EO satellites experience intermittent contact with ground stations, leading to **delays, data bottlenecks, and missed opportunities**. By integrating them into space-based relay networks using **DTN protocols**, we reduce downtime, **increase data availability**, and move toward **always-on connectivity** in orbit.
+
+We focus on:
+
+- Applying **DTN concepts** to near-term, Earth-based assets to demonstrate practical value early in the roadmap.
+    
+- Using the **Bundle Protocol (BP)** and **BPSEC**, adapting them for real-world EO use cases with existing commercial and institutional infrastructure.
+    
+- Developing a network management layer that is **interoperable**, **secure**, and able to support **multi-actor missions** (space agencies, academia, commercial providers).
+    
+
+Our key innovation lies in **minimizing disruption—not just technically, but operationally—by using infrastructure that already exists**. By linking EO satellites to active LEO networks, we:
+
+- Improve **throughput** and **latency**,
+    
+- Create a **pathway to full in-space internetworking**, and
+    
+- Build a testbed for future Lunar and planetary DTN deployments.
+    
+
+Technical tasks will include:
+
+- Developing DTN network management concepts optimized for EO satellite constellations,
+    
+- Prototyping and simulating DTN-enabled EO data pipelines using commercial relays,
+    
+- Validating operational models in simulated and real data delivery scenarios,
+    
+- Ensuring interoperability with ESA and CCSDS standards.
+    
+
+---
+
+### Implementation Schedule
+
+We propose a **phased approach** aligned with the GSTP activity, but framed around our goal of EO integration first:
+
+- **Phase 1 – Concept consolidation and design (8 months, €350k)**  
+    Define the DTN architecture for Earth satellites using LEO infrastructure. Assess mission impact, security policies (BPSEC), and ground-to-space integration.
+    
+- **Phase 2 – Prototyping and demonstration (16 months, €550k)**  
+    Build a simulation and prototype testbed. Demonstrate end-to-end connectivity for EO missions via LEO constellations, with DTN routing and security. Refine models for interoperability and contribute to standards."
+
+
+
+
 * Requested budget.
 * Justify the budget. (lav budgettet)
 
