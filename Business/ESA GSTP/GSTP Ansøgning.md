@@ -82,6 +82,8 @@ We propose a **phased approach** aligned with the GSTP activity, but framed arou
 
 * Requested budget.
 * Justify the budget. (lav budgettet)
+	* For our part we estimate 30 000 for supplies? shoud it be 50 000?
+* 
 
 
 #### Why is the development of this technology a priority to you company/organization? How will you develop this opportunity during and after the activity? What happens next (please include a timeline)?
