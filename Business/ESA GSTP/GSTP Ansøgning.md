@@ -168,6 +168,8 @@ M
 #### Technical specification
 Primarily for the ESA engineers who will be advising UFM 
 
+The work on this activity will include 
+
 
 Traditional downlinks are charaterized by  intermittent connectivity and long delays.  
 
