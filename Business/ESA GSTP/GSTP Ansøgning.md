@@ -20,6 +20,10 @@ To make a true "space internet " we can connect satellites to LEO infrastruture.
 		* Talk with someone. 
 		* Can we ask for more?
 
+Alberts forslag:
+
+
+
 Maskinens forslag: 
 "
 ### Technology Outline and Technical Work
