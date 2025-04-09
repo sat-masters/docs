@@ -85,6 +85,50 @@ We propose a **phased approach** aligned with the GSTP activity, but framed arou
 * Collaboration with Danish satellite building companies. 
 
 * We see this product being the de-facto downlink solution for small to medium sized satellites In the coming years.
+
+
+The development of this technology is central to our company’s mission: we were founded to enable seamless, resilient, and high-throughput communication in space.
+This project represents not just an opportunity for us, but the exact kind of work we were created to do.
+
+From our experience, the current downlink model for small and medium satellites is **limited by ground station availability, latency, and bandwidth constraints**. This is an outdated model—especially with the rapid deployment of **LEO mega constellations** that could be used as relays.
+
+We see an opportunity to flip the model: instead of waiting for ground passes, **we route data through space**—leveraging **existing European LEO constellations** to relay and distribute traffic using DTN protocols. This is not only technically feasible but strategically important for Europe's autonomy in space communication infrastructure.
+
+We are also working closely with **Danish satellite manufacturers**, who are looking for next-generation communication stacks to integrate into their upcoming missions. By aligning with their timelines and technical needs, we ensure this solution is **mission-driven and deployment-ready**.
+
+Our ambition is for this product to become the **de-facto standard for downlink** in small to medium EO satellites. By embedding DTN into satellite operations and making relay-through-space the norm, we significantly **increase the reliability and availability of mission data**, reduce operational costs, and open the door to real-time services.
+
+M
+### During and After the Activity – What Happens Next
+
+**During the activity**, we will:
+
+- Develop a prototype and validate it with simulation and hardware-in-the-loop.
+    
+- Start integration pilots with Danish-built EO satellites.
+    
+- Initiate interoperability tests with at least one European LEO constellation operator.
+    
+
+**After the activity**, we will:
+
+- Productize the DTN communication stack, including software, integration support, and testing tools.
+    
+- Launch flight demonstrations in collaboration with our satellite manufacturing partners.
+    
+- Scale integration support and certification to make our system a drop-in module for commercial and institutional EO missions.
+    
+
+**Timeline:**
+
+- **Year 1**: Concept validation, architecture definition, partner coordination.
+    
+- **Year 2**: Prototyping, mission integration, operational validation.
+    
+- **Year 3 onward**: Commercial rollout, live satellite deployments, ongoing refinement.
+
+
+
 #### Detail the strategic, economic, social, etc. benefit this activity has to you company?
 
 * We are starting our company.
