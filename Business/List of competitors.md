@@ -25,6 +25,7 @@ https://dl.acm.org/doi/abs/10.1145/3452296.3472932
 #### Arguments against
 The price of building out new ground stations. 
 Still not able to get down to the latencies we are talking about
+Is essentially the same as just using AWS/KSAT 
 
 
 

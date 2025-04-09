@@ -10,7 +10,7 @@ Poul
 
 # Notes:
 
-Vi skal udtrykke ministeriet at vi kan lave dette stykke arbejde for et af de 
+Vi skal udtrykke ministeriet at vi kan lave dette stykke arbejde for et af de vil have os.
 
 Hvis vi skal lave inno founder er det en fordel vi ikke har startet virksomheden. 
 Overveje rækkefølgen

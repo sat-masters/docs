@@ -167,11 +167,14 @@ M
 
 #### Technical specification
 Primarily for the ESA engineers who will be advising UFM 
-In th
+
+Traditional downlinks are inherint
 
 The proposed architecture is as seen in the following figure: 
 ![[Drawing 2025-04-09 14.41.48.excalidraw]]
 The LEO satellite is a satellite typically generating data, this could be for Earth observation or other things. 
+
+
 
 * Block diagram of "placement" of technology in current system infrastructure
 * Interfaces that we use / expose
