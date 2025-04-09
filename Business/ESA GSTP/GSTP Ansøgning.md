@@ -168,11 +168,20 @@ M
 #### Technical specification
 Primarily for the ESA engineers who will be advising UFM 
 
-Traditional downlinks are inherint
+Traditional downlinks are charaterized by  intermittent connectivity and long delays.  
 
 The proposed architecture is as seen in the following figure: 
 ![[Drawing 2025-04-09 14.41.48.excalidraw]]
 The LEO satellite is a satellite typically generating data, this could be for Earth observation or other things. 
+
+As there there can be several different constellation satellites visible at any given time an algorithm for selecting the right link is important. 
+
+When the link is chosen the radio can establish the chosen link and transmit the data. 
+The data is then handed off to the mega constellation, through which the data is routed to the ground. 
+
+Here the ground user(s) can access the data. 
+
+##### Interfaces
 
 
 
