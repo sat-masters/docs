@@ -1,4 +1,4 @@
-#### Outline the technology this activity addresses including the technical work to be under- taken. Briefly indicate the implementation schedule and requested budget.
+#### Outline the technology this activity addresses including the technical work to be undertaken. Briefly indicate the implementation schedule and requested budget.
 
 * Intro which takes the proposal as a starting point. 
 	* Creating a solar system internet starts by connecting Earth satellites
