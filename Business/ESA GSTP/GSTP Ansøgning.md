@@ -1,5 +1,10 @@
 #### Outline the technology this activity addresses including the technical work to be under- taken. Briefly indicate the implementation schedule and requested budget.
 
+The development of this product should start with a focus on the Earth observation satellites. 
+The use of DTN protocols stemms from the fact that the connection is intermitten.. 
+Our proposal is to use existing infrastructure to minimize the disruptions (both in amount and time). 
+To make a true "space internet " we can connect satellites to LEO infrastruture. 
+
 
 * Intro which takes udgangspunkt in what they ask
 	* Creating a solar system internet starts by connecting Earth satellites
