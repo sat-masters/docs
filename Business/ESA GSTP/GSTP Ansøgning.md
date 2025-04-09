@@ -6,7 +6,7 @@ Our proposal is to use existing infrastructure to minimize the disruptions (both
 To make a true "space internet " we can connect satellites to LEO infrastruture. 
 
 
-* Intro which takes udgangspunkt in what they ask
+* Intro which takes the proposal as a starting point. 
 	* Creating a solar system internet starts by connecting Earth satellites
 
 * Why our solution is relevant to this activity 
