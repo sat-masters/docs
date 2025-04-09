@@ -1,4 +1,4 @@
-#### Outline the technology this activity addresses including the technical work to be under- taken. Briefly indicate the implementation schedule and requested budget.
+#### Outline the technology this activity addresses including the technical work to be undertaken. Briefly indicate the implementation schedule and requested budget.
 
 * Intro which takes the proposal as a starting point. 
 	* Creating a solar system internet starts by connecting Earth satellites
@@ -19,6 +19,14 @@ To make a true "space internet " we can connect satellites to LEO infrastruture.
 	* The activity states 8 moths is this realistic? 
 		* Talk with someone. 
 		* Can we ask for more?
+
+Alberts forslag:
+This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication.
+The main problem addressed by DTN solutions are the intermittent connectivity and long delays in space communication.
+The current downlink model for small and medium satellites is limited by ground station availability, making the use of _technologies_ like Bundle Protocol (BP) necessary to ensure data delivery. 
+With focus on Earth observation satellites, we propose to use existing Low Earth Orbit (LEO) infrastructure, such as OneWeb, Iridium, and Iris² to minimize the disruptions (both in amount and time).
+The goal is to create a de-facto standard for downlink in small to medium LEO missions, and to enable seamless, resilient, and high-throughput internet in space.
+
 
 Maskinens forslag: 
 "
