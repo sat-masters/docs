@@ -21,7 +21,8 @@ To make a true "space internet " we can connect satellites to LEO infrastruture.
 		* Can we ask for more?
 
 Alberts forslag:
-
+This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication.
+The main problem addressed by DTN solutions are 
 
 
 Maskinens forslag: 
