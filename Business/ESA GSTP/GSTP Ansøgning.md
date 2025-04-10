@@ -8,7 +8,8 @@ The use of DTN protocols stemms from the fact that the connection is intermitten
 Our proposal is to use existing infrastructure to minimize the disruptions (both in amount and time). 
 To make a true "space internet " we can connect satellites to LEO infrastruture. 
 
-
+Enable satellites to talk to each other through mega constellation enabling the "solar system internet" without the need for the information to travel to the earth first. 
+Quantum computing? - hvis det er en fordel at gøre i rummet, så er det jo meget vigtigt at få delt den information hurtigt (pga. decoherence) her kan man ikke vente på groundstation pass. 
 
 * Why our solution is relevant to this activity 
 
