@@ -33,7 +33,7 @@ The goal is to create a de-facto standard for downlink in small to medium LEO mi
 
 Maskinens forslag: 
 "
-### Technology Outline and Technical Work
+#### Technology Outline and Technical Work
 
 This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication—starting not with Mars, but with **Earth observation satellites**. Our proposal views the **creation of a true Solar System Internet** as a staged process, beginning by connecting EO satellites via **existing Low Earth Orbit (LEO) infrastructure**, such as mega-constellations.
 
@@ -70,7 +70,7 @@ Technical tasks will include:
 
 ---
 
-### Implementation Schedule
+#### Implementation Schedule
 
 We propose a **phased approach** aligned with the GSTP activity, but framed around our goal of EO integration first:
 
