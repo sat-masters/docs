@@ -98,7 +98,10 @@ We propose a **phased approach** aligned with the GSTP activity, but framed arou
 * Collaboration with Danish satellite building companies. 
 
 * We see this product being the de-facto downlink solution for small to medium sized satellites In the coming years.
-- When we have developed an MVP we will sell ad hoc to satelllite manufacturers and sell case by case. However we envision THAT THIS COULD LEAD TO a collaboration 
+- When we have developed an MVP we will sell ad hoc to satelllite manufacturers and sell case by case. However we envision 
+- That could lead to a collaboration with mega constellations.
+- Product lifetime overview
+- 
 
 The development of this technology is central to our company’s mission: we were founded to enable seamless, resilient, and high-throughput communication in space.
 This project represents not just an opportunity for us, but the exact kind of work we were created to do.
