@@ -159,8 +159,10 @@ M
 * List of milestones that need to be reached
 	* Who is responsible for each milestone
 	* What is the "cost" of each milestone
+	* Timeline i kronologisk rækkefølge
 * Are there any financial commitment from the companies "own pockets"?
 * All companies in DK?
+* 
 
 
 ### APPENDIX / ANNEX
