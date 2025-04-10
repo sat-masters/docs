@@ -26,6 +26,9 @@ The main problem addressed by DTN solutions are the intermittent connectivity an
 The current downlink model for small and medium satellites is limited by ground station availability, making the use of _technologies_ like Bundle Protocol (BP) necessary to ensure data delivery. 
 With focus on Earth observation satellites, we propose to use existing Low Earth Orbit (LEO) infrastructure, such as OneWeb, Iridium, and Iris² to minimize the disruptions (both in amount and time).
 The goal is to create a de-facto standard for downlink in small to medium LEO missions, and to enable seamless, resilient, and high-throughput internet in space.
+- **Outline the technology**
+- **Briefly indicate the implementation schedule and requested budget.**
+	- Fra og til plus pris
 
 
 Maskinens forslag: 
@@ -95,7 +98,7 @@ We propose a **phased approach** aligned with the GSTP activity, but framed arou
 * Collaboration with Danish satellite building companies. 
 
 * We see this product being the de-facto downlink solution for small to medium sized satellites In the coming years.
-
+- When we have developed an MVP we will sell ad hoc to satelllite manufacturers and sell case by case. However we envision THAT THIS COULD LEAD TO a collaboration 
 
 The development of this technology is central to our company’s mission: we were founded to enable seamless, resilient, and high-throughput communication in space.
 This project represents not just an opportunity for us, but the exact kind of work we were created to do.
@@ -141,6 +144,7 @@ M
 
 #### Detail the strategic, economic, social, etc. benefit this activity has to you company?
 
+* Our history
 * We are starting our company.
 * This is our core technology. 
 * This funding would accelerate the development of a technology we see as a essential part of the industry in the coming years. 
