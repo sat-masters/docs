@@ -85,7 +85,7 @@ We propose a **phased approach** aligned with the GSTP activity, but framed arou
 
 * Requested budget.
 * Justify the budget. (lav budgettet)
-	* For our part we estimate 30 000 for supplies? shoud it be 50 000?
+	* For our part we estimate 30 000 for supplies? shoud it be 50 000? And then 54 000 in salaries per month.  
 * 
 
 
