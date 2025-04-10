@@ -37,7 +37,7 @@ Møde med poul kl. 12.30
 
 Vi skal have CVR
 
-Advisor Morten Lindvad
+Advisor Morten Lindblad
 
 FIND UD AF HVAD MARKEDET ER!
 
