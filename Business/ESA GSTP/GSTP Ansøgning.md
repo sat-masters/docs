@@ -74,16 +74,11 @@ This will be the first step in our long-term vision of creating a **seamless, re
 
 
 Maskinens forslag:
-The development of this technology is central to our company’s mission: we were founded to enable seamless, resilient, and high-throughput communication in space.
-This project represents not just an opportunity for us, but the exact kind of work we were created to do.
+We are a startup dedicated to revolutionizing connectivity for small and medium satellites in LEO by lowering the barriers to entry for satellite communications and enabling **always-on connectivity** in space. The current model forces standalone satellite operators to invest heavily in ground station infrastructure—a costly and inefficient requirement. Our innovative product eliminates the need for extensive ground station management, streamlines the downlink design process, and facilitates **real-time data services** for LEO operators.
 
-From our experience, the current downlink model for small and medium satellites is **limited by ground station availability, latency, and bandwidth constraints**. This is an outdated model—especially with the rapid deployment of **LEO mega constellations** that could be used as relays.
+To achieve these goals, we are applying to the GSTP program to develop a **Disruption Tolerant Networking (DTN) solution**, a key component in realizing a future **solar system internet**. In the near term, our focus will be on collaborating with prominent **European mega-constellations** and **Danish satellite manufacturers** for seamless integration in upcoming missions. This project marks the initial phase of our strategic roadmap, which ultimately aims to establish a **seamless, resilient, and high-throughput communication network** in space, thereby significantly lowering entry barriers and bolstering Europe’s competitive stance in the space sector.
 
-We see an opportunity to flip the model: instead of waiting for ground passes, **we route data through space**—leveraging **existing European LEO constellations** to relay and distribute traffic using DTN protocols. This is not only technically feasible but strategically important for Europe's autonomy in space communication infrastructure.
-
-We are also working closely with **Danish satellite manufacturers**, who are looking for next-generation communication stacks to integrate into their upcoming missions. By aligning with their timelines and technical needs, we ensure this solution is **mission-driven and deployment-ready**.
-
-Our ambition is for this product to become the **de-facto standard for downlink** in small to medium EO satellites. By embedding DTN into satellite operations and making relay-through-space the norm, we significantly **increase the reliability and availability of mission data**, reduce operational costs, and open the door to real-time services.
+During and after the activity, our development will follow a structured timeline: initial system design and partner engagement in the first 6 months, a pilot integration phase over the following 12 months, and full-scale deployment and operational validation by the end of an 18- to 24-month period.
 
 
 #### Detail the strategic, economic, social, etc. benefit this activity has to you company?
