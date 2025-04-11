@@ -167,6 +167,48 @@ This activity includes the analysis of the proposed architecture in the DTN cont
 **Activities**
 This activity supports the integration of the system with hardware to run HIL simulations. 
 
+maskinens "brødtekst"
+Here’s the revised version formatted as **body text** (no bullet points or markdown):  
+
+---
+
+**WP 1: System Simulation**  
+**Duration**: [X months].  
+**Budget**: [Salary × X].  
+**Activities**: This work package involves integrating core technologies into a simulation environment to evaluate the performance, scalability, and interoperability of the proposed architecture.  
+**Deliverables**: A functional simulation framework with integrated architecture components, a performance evaluation report (e.g., latency, throughput, error rates), and additional deliverables to be specified (e.g., optimization guidelines for architecture deployment).  
+
+---
+
+**WP 2: Technology Development & Prototyping**  
+**Duration**: [Y months].  
+**Budget**: [Salary × Y].  
+**Activities**: This work package focuses on designing and prototyping core technologies, including hardware/software iterations and validation of critical subsystems. It also supports intellectual property (IP) development.  
+**Deliverables**: A prototype of core technology components and documentation for IP filings (patents, technical disclosures).  
+
+---
+
+**WP 3: Architecture Analysis & Validation**  
+**Duration**: [Z months].  
+**Budget**: [Salary × Z].  
+**Activities**: This work package includes rigorous analysis and validation of the proposed architecture in Delay-Tolerant Networking (DTN) scenarios. It compares legacy and new systems across key performance metrics.  
+**Deliverables**: A comparative performance report (Legacy vs. new system), an analysis of DTN protocol impact (with/without DTN), and simulation results for multi-satellite networks integrating multiple constellations.  
+
+---
+
+**WP 4: Hardware-in-the-Loop (HIL) Integration**  
+**Duration**: [Æ months].  
+**Budget**: [Salary × Æ].  
+**Activities**: This work package integrates the system with physical hardware components to enable Hardware-in-the-Loop (HIL) simulations for real-world performance validation.  
+**Deliverables**: Documentation for the HIL testbed setup and a validation report from hardware-integrated simulations.  
+
+---
+
+*(Note: The inclusion of WP 4 is recommended if HIL validation aligns with the project scope.)*  
+
+Let me know if you need further adjustments!
+
+
 ### APPENDIX / ANNEX
 
 #### Who is involved ?
