@@ -75,6 +75,25 @@ We are also working closely with **Danish satellite manufacturers**, who are loo
 
 Our ambition is for this product to become the **de-facto standard for downlink** in small to medium EO satellites. By embedding DTN into satellite operations and making relay-through-space the norm, we significantly **increase the reliability and availability of mission data**, reduce operational costs, and open the door to real-time services.
 
+
+#### Detail the strategic, economic, social, etc. benefit this activity has to you company?
+
+* Our history
+* We are starting our company.
+* This is our core technology. 
+* This funding would accelerate the development of a technology we see as a essential part of the industry in the coming years. 
+* (Would enable us to better compete against established companies)
+* We will develop the technology anyways. 
+
+#### Describe the financial commitment required for this activity. Include a breakdown by company/organization, showing member state, work packages etc. where appropriate.
+
+* List of milestones that need to be reached
+	* Who is responsible for each milestone
+	* What is the "cost" of each milestone
+	* Timeline i kronologisk rækkefølge
+* Are there any financial commitment from the companies "own pockets"?
+* All companies in DK?
+* 
 ##### Timeline: 
 
 - Integration with DTN protocols?
@@ -101,25 +120,6 @@ Our ambition is for this product to become the **de-facto standard for downlink*
 - Integration of system block and simulation environment.
 - Simulation of multiple satellites using multiple constellations as cohesive network. 
 - Hardware in the loop?
-#### Detail the strategic, economic, social, etc. benefit this activity has to you company?
-
-* Our history
-* We are starting our company.
-* This is our core technology. 
-* This funding would accelerate the development of a technology we see as a essential part of the industry in the coming years. 
-* (Would enable us to better compete against established companies)
-* We will develop the technology anyways. 
-
-#### Describe the financial commitment required for this activity. Include a breakdown by company/organization, showing member state, work packages etc. where appropriate.
-
-* List of milestones that need to be reached
-	* Who is responsible for each milestone
-	* What is the "cost" of each milestone
-	* Timeline i kronologisk rækkefølge
-* Are there any financial commitment from the companies "own pockets"?
-* All companies in DK?
-* 
-
 
 ### APPENDIX / ANNEX
 
@@ -133,24 +133,36 @@ Our ambition is for this product to become the **de-facto standard for downlink*
 	* Involvement in the project
 
 #### Technical specification
-
-
-
-Traditional down-links are characterized by intermittent connectivity and long delays.  
+In the legacy connectivity paradigm LEO satellites gather data throughout it's orbit, however communication with the satellite is only possible  when it's passing a ground station. This means critical data has to wait for a ground station pass to be downlinked.
+This results in  intermittent connectivity and long delays. 
 However every second several opportunities to establish a connection to the ground flys by overhead. 
-If these opportunities can be utilized the connectivity of LEO satellites can be improved significantly.  
+If these opportunities can be utilized the connectivity of LEO satellites can be improved significantly. 
+The legacy connectivity paradigm can be seen in the following figure.
+![[legacy_topology]]
+Our new connectivity paradigm utilizes existing infrastructure in space to essentially connect LEO satellites to the internet. 
+The new communication paradigm can be seen in the following figure. 
+![[New_topology]]
+This enables a link which has higher throughput throughout the day and lower latency.
+A sketch of the characteristics of the two connectivity paradigms can be seen below. 
+![[throughput_legacy_vs_new]]
 
-The proposed architecture is as seen in the following figure: 
+To enable this new paradigm a new architecture has to be used. This can be seen in the following figure: 
 ![[Drawing 2025-04-09 14.41.48.excalidraw]]
-The LEO satellite is a satellite typically generating data, this could be for Earth observation or other things. 
+The new architecture contains the following elements: 
+1. LEO satellite
+	The LEO satellite is a satellite typically generating data, this could be for Earth observation or other things. 
+2. Connection management system
+	As there there can be several different constellation satellites visible at any given time a module is needed to facilitate the connection. 
+	- Since the progression of the orbits of both the LEO satellite and the constellation satellites is deterministic, different characteristics of the link between any two satellites can be estimated. These characteristics inform the decision of which link to choose. 
+3. Radio module
+	The connection management module controls the radio which will then transmit the data 
+4. Mega-constellation
+	The data is then handed off to the mega constellation, through which the data is routed to the destination. 
+5. Destination user
+	Here the destination user(s) can access the data. The destination user(s) could be ground users but also other satellites in LEO. This could be edge compute centers or other similar satellites thereby creating a virtual inter satellite link. 
 
-As there there can be several different constellation satellites visible at any given time an algorithm for selecting the right link is important. 
-- Since the progression of the orbits of both the LEO satellite and the constellation satellites is deterministic, different characteristics of the link between any two satellites can be estimated. These characteristics inform the decision of which link to choose. 
 
-When the link is chosen the radio can establish the chosen link and transmit the data. 
-The data is then handed off to the mega constellation, through which the data is routed to the destination. 
 
-Here the destination user(s) can access the data. The destination user(s) could be ground users but also other satellites in LEO. This could be edge compute centers or other similar satellites thereby creating a virtual inter satellite link. 
 
 ##### Interfaces
 * Block diagram of "placement" of technology in current system infrastructure
