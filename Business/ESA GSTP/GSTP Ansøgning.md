@@ -173,7 +173,7 @@ This activity supports the integration of the system with hardware to run HIL si
 * List of supervisors / mentors / advisors
 	* Israel: 
 	* Jens: 
-		* Have participated in the cubesat revolution and led the well known AAU SATLAB. Where AAU Cubesat 
+		* Have participated in the cubesat revolution and led the well known AAU SATLAB. 
 			CV: [Insert the table the right way]
 	* ![[Jens-CV.png]]
 	
