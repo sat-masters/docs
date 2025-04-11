@@ -69,8 +69,18 @@ Currently, EO satellites experience intermittent contact with ground stations, l
 - When we have developed an MVP we will sell ad hoc to satelllite manufacturers and sell case by case. However we envision 
 - That could lead to a collaboration with mega constellations.
 - Product lifetime overview
-- 
 
+
+Alberts forslag:
+We are a startup focused on changing the connectivity paradigm for small and medium satellites in LEO.
+Our mission is to lower the barriers to entry for satellite communication and enable **always-on connectivity** in space.
+Currently, standalone satellite operators must invest in ground station infrastructure to downlink data, which is _costly and inefficient_. 
+Our product will remove the hassle of ground station management, make the downlink design process easier and cheaper, and enable **real-time data services** for LEO satellite operators.
+To realize this vision, we are applying for the GSTP program to develop a **Disruption Tolerant Networking (DTN) solution** as we believe that our solution plays a key role in the future **solar system internet**.
+
+
+
+Maskinens forslag:
 The development of this technology is central to our company’s mission: we were founded to enable seamless, resilient, and high-throughput communication in space.
 This project represents not just an opportunity for us, but the exact kind of work we were created to do.
 
