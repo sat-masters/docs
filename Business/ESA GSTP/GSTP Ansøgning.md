@@ -127,23 +127,23 @@ Socially, the project promises substantial positive impacts. Improved technology
 - Hardware in the loop?
 
 ##### WP 1 Simulation
-**Duration**
+**Duration** [X months]
 
-**Budget**
+**Budget** [salary * X]
 
 **Activities**
 This activity includes the design of a simulation environment to evaluate the performance of the proposed architecture. 
 ##### WP 2 Technology development and prototyping
-**Duration**
+**Duration**[Y months]
 
-**Budget**
+**Budget** [salary *Y]
 
 **Activities**
 This activity supports the core of technology design and software development.
 ##### WP 3 Analysis and evaluation
-**Duration**
+**Duration**[Z months]
 
-**Budget**
+**Budget** [salary *Z]
 
 **Activities**
 This activity includes the analysis of the proposed architecture in the DTN context.
@@ -154,9 +154,9 @@ This activity includes the analysis of the proposed architecture in the DTN cont
 
 [SKAL nedenstående være her?]
 ##### WP 4
-**Duration**
+**Duration**[Æ months]
 
-**Budget**
+**Budget**[salary *Æ]
 
 **Activities**
 This activity supports the integration of the system with hardware to run HIL simulations. 
