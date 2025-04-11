@@ -136,7 +136,46 @@ Socially, the project promises substantial positive impacts. Improved technology
 - Simulation of multiple satellites using multiple constellations as cohesive network. 
 - Hardware in the loop?
 
+Maskinens forslag: 
+Our financial commitment for this activity is streamlined, as it involves a single company based in one Member State. The total funding requested from ESA is **€200,000**, which will be allocated across several work packages as described below:
 
+**1. Company Breakdown:**
+
+- **Company:** [Company Name]
+    
+- **Member State:** [Member State Name]
+    
+- **Total Funding Requested:** €200,000
+    
+
+**2. Work Package Allocation:**
+
+- **Work Package 1 – Project Management and Coordination:**
+    
+    - **Allocation:** €50,000
+        
+    - **Activities:** This includes overall project management, reporting, and administrative tasks to ensure successful project delivery.
+        
+- **Work Package 2 – Technology Development and Prototyping:**
+    
+    - **Allocation:** €90,000
+        
+    - **Activities:** This budget supports the core activities of technology design, prototyping, software development, and laboratory testing.
+        
+- **Work Package 3 – Testing, Validation, and Demonstration:**
+    
+    - **Allocation:** €40,000
+        
+    - **Activities:** Funding will be dedicated to testing the developed technology, validating performance metrics under controlled conditions, and conducting field demonstrations.
+        
+- **Work Package 4 – Dissemination and Exploitation:**
+    
+    - **Allocation:** €20,000
+        
+    - **Activities:** This final phase will support dissemination efforts, market analysis, and the development of an exploitation strategy to maximize the project’s impact.
+        
+
+Each work package has been carefully planned to ensure that the available funds are used efficiently, addressing technical development, risk management, and the long-term viability of the project. This structured investment underscores our commitment to advancing innovative solutions and achieving the objectives set forth in our ESA grant application.
 
 ### APPENDIX / ANNEX
 
