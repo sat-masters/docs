@@ -132,14 +132,19 @@ Socially, the project promises substantial positive impacts. Improved technology
 **Budget** [salary * X]
 
 **Activities**
-This activity includes the design of a simulation environment to evaluate the performance of the proposed architecture. 
+This activity includes integration of core technologies in simulation environment to evaluate the performance of the proposed architecture. 
+
+**Deliverables**
+- ???
+
 ##### WP 2 Technology development and prototyping
 **Duration**[Y months]
 
 **Budget** [salary *Y]
 
 **Activities**
-This activity supports the core of technology design and software development.
+This activity supports the core technology design and intellectual property development.
+
 ##### WP 3 Analysis and evaluation
 **Duration**[Z months]
 
@@ -147,6 +152,7 @@ This activity supports the core of technology design and software development.
 
 **Activities**
 This activity includes the analysis of the proposed architecture in the DTN context.
+
 **Deliverables**
 - Performance of Legacy vs. new system on key metrics
 - Performance analysis of DTN vs no DTN protocols
