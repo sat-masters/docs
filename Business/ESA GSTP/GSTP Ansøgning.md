@@ -180,6 +180,7 @@ This activity supports the integration of the system with hardware to run HIL si
 
 
 	* Petar: 
+		Petar Popovski (Fellow, IEEE) is a Professor at Aalborg University, where he heads the section on Connectivity and a Visiting Excellence Chair at the University of Bremen. He received his Dipl.-Ing and M. Sc. degrees in communication engineering from the University of Sts. Cyril and Methodius in Skopje and the Ph.D. degree from Aalborg University in 2005. He received an ERC Consolidator Grant (2015), the Danish Elite Researcher Award (2016), the IEEE Fred W. Ellersick Prize (2016), the IEEE Stephen O. Rice Prize (2018), the Technical Achievement Award from the IEEE Technical Committee on Smart Grid Communications (2019), the Danish Telecommunication Prize (2020) and Villum Investigator Grant (2021). He was a Member at Large of the Board of Governors of IEEE Communication Society 2019-2021. He is currently an Editor-in-Chief of the IEEE Journal on Selected Areas in Communications and a Chair of the IEEE Communication Theory Technical Committee. His research interests are in the area of wireless communication and communication theory. He authored the book ”Wireless Connectivity: An Intuitive and Fundamental Guide
 	* Their qualifications
 	* Background in the industry
 	* Involvement in the project
