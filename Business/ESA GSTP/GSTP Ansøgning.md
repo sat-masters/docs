@@ -100,9 +100,10 @@ This funding is critical to accelerating our development roadmap. It will enable
 
 Economically, the accelerated development brought by this grant will lower entry barriers in a market that has long been dominated by larger players. The improved efficiency and faster realization of revenue streams will allow us to reinvest in further research and development, laying the foundation for sustained long-term growth.
 
-Accelerating this technology not only benefits our company but also boosts the global competitiveness of European mega constellations. By enhancing our capabilities, we support a collaborative ecosystem that strengthens both individual market positions and Europe’s overall presence in the space sector.
+Accelerating this technology not only benefits our company but also boosts the global competitiveness of European mega-constellations. By enhancing our capabilities, we support a collaborative ecosystem that strengthens both individual market positions and Europe’s overall presence in the space sector.
 
 Socially, the project promises substantial positive impacts. Improved technology can lead to better weather forecasting and increased security, delivering significant benefits to a range of sectors, including farming, defense, environmental monitoring, and disaster management. Additionally, advancing this technology will contribute to European autonomy.
+
 #### Describe the financial commitment required for this activity. Include a breakdown by company/organization, showing member state, work packages etc. where appropriate.
 
 * List of milestones that need to be reached
