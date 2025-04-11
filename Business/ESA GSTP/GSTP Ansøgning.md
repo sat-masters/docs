@@ -228,3 +228,23 @@ The new architecture contains the following elements:
 * Interfaces that we use / expose
 * (Vague description of optimization objective)
 	* Unsure if this is too specific
+
+##### Architectural overview
+
+The figure below shows the Connectivity Management Module (CMM) in respect to the relevant satellite subsystems.
+![[Drawing 2025-04-09 14.41.48.excalidraw]]
+The CMM receives data from the satellite's payload, and other subsystems.
+The CMM is responsible for establishing and maintaining the connection to the relevant Space Internet Provider (SIP).
+The CMM interfaces with the satellite's radio module through a standardized radio interface.
+
+
+In the context of the OSI model, the CMM operates at the Data Link Layer (Layer 2).
+The module recieves Layer 3 packets from the payload and mimics the Layer 2 representation expected by the recieving SIP node.
+[INSERT OSI MODEL MAYBE?]
+
+In the context of the LEO satellite network, the CMM facilitates the connection to the SIP node, whereafter the SIP is responsible for routing the data to a ground station, and subsequently to the end user.
+This model is illustrated in the figure below.
+![[New_topology]]
+This approach allows for a seamless integration of the CMM into existing satellite architectures, while also providing the flexibility to adapt to different SIPs and communication protocols in a modular fashion.
+The CMM is designed to be agnostic to the specific SIP used, allowing for easy integration with different providers and protocols. 
+This modularity enables the CMM to adapt to the evolving landscape of space communication, ensuring long-term viability and relevance in the rapidly changing space industry.
