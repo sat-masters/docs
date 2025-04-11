@@ -29,7 +29,8 @@ Alberts forslag:
 This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication.
 The main problem addressed by DTN solutions are the intermittent connectivity and long delays in space communication.
 The current downlink model for small to medium satellites in Low Earth Orbit (LEO) is limited by ground station availability, making the use of solutions like Bundle Protocol (BP) necessary to ensure _data delivery_.  
-We propose to use existing LEO infrastructure, such as OneWeb, Iridium, and Iris² to minimize the disruptions, both in amount and time.
+We propose to use existing LEO infrastructure, such as OneWeb, Iridium, and Iris² to minimize the disruptions, both in amount and time. 
+A more detailed explanation of the technology can be found in Annex 2.
 The goal is to create a de-facto standard for downlink in small to medium LEO missions, and to enable seamless, resilient, and high-throughput internet in space.
 The proposed architecture is a connectivity management module that will be integrated into the satellite's communication stack.
 The module will be responsible for intelligently selecting and establishing links to relevant available Space Internet Providers (SIP), ensuring stable and reliable data transfer.
@@ -44,17 +45,6 @@ The project will span over 24 months, with a budget of 200,000 EUR.
 Salary $$3600 \cdot 2 \cdot 24 = 172 800$$
 Materials $$27 200$$
 Total: $$172 800+27 200 = 200 000$$
-
-
-Maskinens forslag: 
-"
-#### Technology Outline and Technical Work
-
-This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication—starting not with Mars, but with **Earth observation satellites**. Our proposal views the **creation of a true Solar System Internet** as a staged process, beginning by connecting EO satellites via **existing Low Earth Orbit (LEO) infrastructure**, such as mega-constellations.
-
-Currently, EO satellites experience intermittent contact with ground stations, leading to **delays, data bottlenecks, and missed opportunities**. By integrating them into space-based relay networks using **DTN protocols**, we reduce downtime, **increase data availability**, and move toward **always-on connectivity** in orbit.
-"
-
 
 
 #### Why is the development of this technology a priority to you company/organization? How will you develop this opportunity during and after the activity? What happens next (please include a timeline)?
