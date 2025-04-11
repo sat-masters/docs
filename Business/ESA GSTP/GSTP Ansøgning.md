@@ -187,6 +187,9 @@ Each work package has been carefully planned to ensure that the available funds 
 	* 
 	* Who are we etc.
 * List of supervisors / mentors / advisors
+	* Israel: 
+	* Jens: 
+	* Petar: 
 	* Their qualifications
 	* Background in the industry
 	* Involvement in the project
