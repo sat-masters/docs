@@ -178,14 +178,14 @@ This activity supports the integration of the system with hardware to run HIL si
 	* Who are we etc.
 * List of supervisors / mentors / advisors
 	* Israel: 
+		Israel Leyva-Mayorga (Member, IEEE) received the B.Sc. degree in telematics engineering and the M.Sc. degree (Hons.) in mobile computing systems from the Instituto Polit´ecnico Nacional (IPN), Mexico, in 2012 and 2014, respectively, and the Ph.D. degree (cum laude and extraordinary prize) in telecommunications from the Universitat Politecnica de Valencia (UPV), Spain, in 2018. He was a Visiting Researcher at the Department of Communications, UPV, in 2014, and at the Deutsche Telekom Chair of Communication Networks, Technische Universitat Dresden, Germany, in 2018. He is currently an Assistant Professor at the Connectivity Section (CNT) of the Department of Electronic Systems, Aalborg University (AAU), Denmark, where he served as a Postdoctoral Researcher from January 2019 to July 2021. He is an Associate Editor for IEEE WIRELESS COMMUNICATIONS LETTERS and a Board Member for one6G. His research interests include beyond-5G, and 6G networks, satellite communications, and random and multiple access
+protocols
 	* Jens: 
 		* Have participated in the cubesat revolution and led the well known AAU SATLAB. 
 			CV: [Insert the table the right way]
 	* ![[Jens-CV.png]]
 	
-
-
-	* Petar: 
+- Petar: 
 		Petar Popovski (Fellow, IEEE) is a Professor at Aalborg University, where he heads the section on Connectivity and a Visiting Excellence Chair at the University of Bremen. He received his Dipl.-Ing and M. Sc. degrees in communication engineering from the University of Sts. Cyril and Methodius in Skopje and the Ph.D. degree from Aalborg University in 2005. He received an ERC Consolidator Grant (2015), the Danish Elite Researcher Award (2016), the IEEE Fred W. Ellersick Prize (2016), the IEEE Stephen O. Rice Prize (2018), the Technical Achievement Award from the IEEE Technical Committee on Smart Grid Communications (2019), the Danish Telecommunication Prize (2020) and Villum Investigator Grant (2021). He was a Member at Large of the Board of Governors of IEEE Communication Society 2019-2021. He is currently an Editor-in-Chief of the IEEE Journal on Selected Areas in Communications and a Chair of the IEEE Communication Theory Technical Committee. His research interests are in the area of wireless communication and communication theory. He authored the book ”Wireless Connectivity: An Intuitive and Fundamental Guide
 	* Their qualifications
 	* Background in the industry
