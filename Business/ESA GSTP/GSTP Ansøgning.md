@@ -32,7 +32,11 @@ With focus on Earth observation satellites, we propose to use existing LEO infra
 The goal is to create a de-facto standard for downlink in small to medium LEO missions, and to enable seamless, resilient, and high-throughput internet in space.
 - **Outline the technology**
 - **Briefly indicate the implementation schedule and requested budget.**
-	- Fra og til plus pris
+	- 24 months
+##### Budget
+Salary $$3600 \cdot 2 \cdot 24 = 172 800$$
+Materials $$27 200$$
+Total: $$172 800+27 200 = 200 000$$
 
 
 Maskinens forslag: 
@@ -42,55 +46,8 @@ Maskinens forslag:
 This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication—starting not with Mars, but with **Earth observation satellites**. Our proposal views the **creation of a true Solar System Internet** as a staged process, beginning by connecting EO satellites via **existing Low Earth Orbit (LEO) infrastructure**, such as mega-constellations.
 
 Currently, EO satellites experience intermittent contact with ground stations, leading to **delays, data bottlenecks, and missed opportunities**. By integrating them into space-based relay networks using **DTN protocols**, we reduce downtime, **increase data availability**, and move toward **always-on connectivity** in orbit.
+"
 
-We focus on:
-
-- Applying **DTN concepts** to near-term, Earth-based assets to demonstrate practical value early in the roadmap.
-    
-- Using the **Bundle Protocol (BP)** and **BPSEC**, adapting them for real-world EO use cases with existing commercial and institutional infrastructure.
-    
-- Developing a network management layer that is **interoperable**, **secure**, and able to support **multi-actor missions** (space agencies, academia, commercial providers).
-    
-
-Our key innovation lies in **minimizing disruption—not just technically, but operationally—by using infrastructure that already exists**. By linking EO satellites to active LEO networks, we:
-
-- Improve **throughput** and **latency**,
-    
-- Create a **pathway to full in-space internetworking**, and
-    
-- Build a testbed for future Lunar and planetary DTN deployments.
-    
-
-Technical tasks will include:
-
-- Developing DTN network management concepts optimized for EO satellite constellations,
-    
-- Prototyping and simulating DTN-enabled EO data pipelines using commercial relays,
-    
-- Validating operational models in simulated and real data delivery scenarios,
-    
-- Ensuring interoperability with ESA and CCSDS standards.
-    
-
----
-
-#### Implementation Schedule
-
-We propose a **phased approach** aligned with the GSTP activity, but framed around our goal of EO integration first:
-
-- **Phase 1 – Concept consolidation and design (8 months, €350k)**  
-    Define the DTN architecture for Earth satellites using LEO infrastructure. Assess mission impact, security policies (BPSEC), and ground-to-space integration.
-    
-- **Phase 2 – Prototyping and demonstration (16 months, €550k)**  
-    Build a simulation and prototype testbed. Demonstrate end-to-end connectivity for EO missions via LEO constellations, with DTN routing and security. Refine models for interoperability and contribute to standards."
-
-
-
-
-* Requested budget.
-* Justify the budget. (lav budgettet)
-	* For our part we estimate 30 000 for supplies? shoud it be 50 000? And then 54 000 in salaries per month.  
-* 
 
 
 #### Why is the development of this technology a priority to you company/organization? How will you develop this opportunity during and after the activity? What happens next (please include a timeline)?
@@ -118,37 +75,32 @@ We are also working closely with **Danish satellite manufacturers**, who are loo
 
 Our ambition is for this product to become the **de-facto standard for downlink** in small to medium EO satellites. By embedding DTN into satellite operations and making relay-through-space the norm, we significantly **increase the reliability and availability of mission data**, reduce operational costs, and open the door to real-time services.
 
-M
-### During and After the Activity – What Happens Next
+##### Timeline: 
 
-**During the activity**, we will:
+- Integration with DTN protocols?
+	- Just brief mention that DTN can be build on top of our solution.
+- 
+- Analysis deliverables. 
+	- Performance of Legacy vs. new system on key metrics
+	- Antenna design ITR vs. isotropic 
+	- RF band pollution analysis
+	- Performance analysis of DTN vs no DTN protocols
+		- Performance with transport layer.  
+- Simulation environment for multiple constellations, users and groundstations. 
+	- Collaboration? Watch for IPR
+	- Our self?
+	- Watch out for Licenses
 
-- Develop a prototype and validate it with simulation and hardware-in-the-loop.
-    
-- Start integration pilots with Danish-built EO satellites.
-    
-- Initiate interoperability tests with at least one European LEO constellation operator.
-    
-
-**After the activity**, we will:
-
-- Productize the DTN communication stack, including software, integration support, and testing tools.
-    
-- Launch flight demonstrations in collaboration with our satellite manufacturing partners.
-    
-- Scale integration support and certification to make our system a drop-in module for commercial and institutional EO missions.
-    
-
-**Timeline:**
-
-- **Year 1**: Concept validation, architecture definition, partner coordination.
-    
-- **Year 2**: Prototyping, mission integration, operational validation.
-    
-- **Year 3 onward**: Commercial rollout, live satellite deployments, ongoing refinement.
-
-
-
+- Selection algorithm 
+	- In high level language for demonstration
+	- in compiled language which can run on embedded systems
+	- What is input / output for this block?
+- Choice of random access protocol
+	- Maybe custom?
+- Define system statemachine.
+- Integration of system block and simulation environment.
+- Simulation of multiple satellites using multiple constellations as cohesive network. 
+- Hardware in the loop?
 #### Detail the strategic, economic, social, etc. benefit this activity has to you company?
 
 * Our history
@@ -186,7 +138,9 @@ Primarily for the ESA engineers who will be advising UFM
 The work on this activity will include 
 
 
-Traditional downlinks are charaterized by  intermittent connectivity and long delays.  
+Traditional down-links are characterized by intermittent connectivity and long delays.  
+However every second several opportunities to establish a connection to the ground flys by overhead. 
+If these opportunities can be utilized the connectivity of LEO satellites can be improved significantly.  
 
 The proposed architecture is as seen in the following figure: 
 ![[Drawing 2025-04-09 14.41.48.excalidraw]]
@@ -198,12 +152,9 @@ As there there can be several different constellation satellites visible at any 
 When the link is chosen the radio can establish the chosen link and transmit the data. 
 The data is then handed off to the mega constellation, through which the data is routed to the destination. 
 
-Here the destination user(s) can access the data. 
+Here the destination user(s) can access the data. The destination user(s) could be ground users but also other satellites in LEO. This could be edge compute centers or other similar satellites thereby creating a virtual inter satellite link. 
 
 ##### Interfaces
-
-
-
 * Block diagram of "placement" of technology in current system infrastructure
 * Interfaces that we use / expose
 * (Vague description of optimization objective)
