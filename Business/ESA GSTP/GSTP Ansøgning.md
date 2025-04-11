@@ -37,10 +37,6 @@ The module will be responsible for intelligently selecting and establishing link
 The module will interface with the [STANDARD RADIO INTERFACE] of the satellite radio module, and will receive data from the satellite's payload.
 The project will span over 24 months, with a budget of 200,000 EUR.
 
-
-- **Outline the technology**
-- **Briefly indicate the implementation schedule and requested budget.**
-	- 24 months
 ##### Budget
 Salary $$3600 \cdot 2 \cdot 24 = 172 800$$
 Materials $$27 200$$
@@ -111,9 +107,6 @@ Socially, the project promises substantial positive impacts. Improved technology
 * 
 ##### Timeline: 
 
-- Integration with DTN protocols?
-	- Just brief mention that DTN can be build on top of our solution.
-- 
 - Analysis deliverables. 
 	- Performance of Legacy vs. new system on key metrics
 	- Antenna design ITR vs. isotropic 
@@ -121,9 +114,6 @@ Socially, the project promises substantial positive impacts. Improved technology
 	- Performance analysis of DTN vs no DTN protocols
 		- Performance with transport layer.  
 - Simulation environment for multiple constellations, users and groundstations. 
-	- Collaboration? Watch for IPR
-	- Our self?
-	- Watch out for Licenses
 
 - Selection algorithm 
 	- In high level language for demonstration
@@ -136,46 +126,23 @@ Socially, the project promises substantial positive impacts. Improved technology
 - Simulation of multiple satellites using multiple constellations as cohesive network. 
 - Hardware in the loop?
 
-Maskinens forslag: 
-Our financial commitment for this activity is streamlined, as it involves a single company based in one Member State. The total funding requested from ESA is **€200,000**, which will be allocated across several work packages as described below:
+##### WP 1 Analysis
+**Duration**
 
-**1. Company Breakdown:**
+**Budget**
 
-- **Company:** [Company Name]
-    
-- **Member State:** [Member State Name]
-    
-- **Total Funding Requested:** €200,000
-    
+**Activities**
+- Performance of Legacy vs. new system on key metrics
+- Antenna design ITR vs. isotropic 
+- RF band pollution analysis
+- Performance analysis of DTN vs no DTN protocols
+	- Performance with transport layer.  
+**Deliverables**
 
-**2. Work Package Allocation:**
-
-- **Work Package 1 – Project Management and Coordination:**
-    
-    - **Allocation:** €50,000
-        
-    - **Activities:** This includes overall project management, reporting, and administrative tasks to ensure successful project delivery.
-        
-- **Work Package 2 – Technology Development and Prototyping:**
-    
-    - **Allocation:** €90,000
-        
-    - **Activities:** This budget supports the core activities of technology design, prototyping, software development, and laboratory testing.
-        
-- **Work Package 3 – Testing, Validation, and Demonstration:**
-    
-    - **Allocation:** €40,000
-        
-    - **Activities:** Funding will be dedicated to testing the developed technology, validating performance metrics under controlled conditions, and conducting field demonstrations.
-        
-- **Work Package 4 – Dissemination and Exploitation:**
-    
-    - **Allocation:** €20,000
-        
-    - **Activities:** This final phase will support dissemination efforts, market analysis, and the development of an exploitation strategy to maximize the project’s impact.
-        
-
-Each work package has been carefully planned to ensure that the available funds are used efficiently, addressing technical development, risk management, and the long-term viability of the project. This structured investment underscores our commitment to advancing innovative solutions and achieving the objectives set forth in our ESA grant application.
+##### WP 2
+##### WP 1
+##### WP 1
+##### WP 1
 
 ### APPENDIX / ANNEX
 
@@ -189,6 +156,12 @@ Each work package has been carefully planned to ensure that the available funds 
 * List of supervisors / mentors / advisors
 	* Israel: 
 	* Jens: 
+		* Have participated in the cubesat revolution and led the well known AAU SATLAB. Where AAU Cubesat 
+			CV: [Insert the table the right way]
+	* ![[Jens-CV.png]]
+	
+
+
 	* Petar: 
 	* Their qualifications
 	* Background in the industry
