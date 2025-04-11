@@ -91,6 +91,16 @@ Our ambition is for this product to become the **de-facto standard for downlink*
 * (Would enable us to better compete against established companies)
 * We will develop the technology anyways. 
 
+
+This funding is critical to accelerating our development roadmap. It will enable us to bring our core technology to market faster and more efficiently, creating a competitive edge against established companies. By reducing time-to-market, we can secure vital partnerships, enhance our intellectual property portfolio, and better position ourselves within a rapidly evolving global landscape.
+
+Economically, the accelerated development brought by this grant will lower entry barriers in a market that has long been dominated by larger players. The improved efficiency and faster realization of revenue streams will allow us to reinvest in further research and development, laying the foundation for sustained long-term growth.
+
+Moreover, the benefits of this project extend beyond our company. Accelerating this technology will also boost the competitiveness of European mega constellations on the global stage. By strengthening our capabilities, we contribute to a broader ecosystem that supports multiple European actors, fostering an environment of collaboration and innovation. This synergy will not only enhance the market position of individual companies but also reinforce Europe’s overall competitive stance in the space sector.
+
+Socially, the project is poised to generate substantial positive impacts. The technology’s advancement could enable better weather forecasting, strengthening our security. Having impact on several sectors like farming, defense etc. TODO: add more sectors
+Furthermore this technology's advancement will aid European Autonomy. 
+
 #### Describe the financial commitment required for this activity. Include a breakdown by company/organization, showing member state, work packages etc. where appropriate.
 
 * List of milestones that need to be reached
