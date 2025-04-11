@@ -37,10 +37,6 @@ The module will be responsible for intelligently selecting and establishing link
 The module will interface with the [STANDARD RADIO INTERFACE] of the satellite radio module, and will receive data from the satellite's payload.
 The project will span over 24 months, with a budget of 200,000 EUR.
 
-
-- **Outline the technology**
-- **Briefly indicate the implementation schedule and requested budget.**
-	- 24 months
 ##### Budget
 Salary $$3600 \cdot 2 \cdot 24 = 172 800$$
 Materials $$27 200$$
@@ -111,9 +107,6 @@ Socially, the project promises substantial positive impacts. Improved technology
 * 
 ##### Timeline: 
 
-- Integration with DTN protocols?
-	- Just brief mention that DTN can be build on top of our solution.
-- 
 - Analysis deliverables. 
 	- Performance of Legacy vs. new system on key metrics
 	- Antenna design ITR vs. isotropic 
@@ -121,9 +114,6 @@ Socially, the project promises substantial positive impacts. Improved technology
 	- Performance analysis of DTN vs no DTN protocols
 		- Performance with transport layer.  
 - Simulation environment for multiple constellations, users and groundstations. 
-	- Collaboration? Watch for IPR
-	- Our self?
-	- Watch out for Licenses
 
 - Selection algorithm 
 	- In high level language for demonstration
@@ -136,7 +126,23 @@ Socially, the project promises substantial positive impacts. Improved technology
 - Simulation of multiple satellites using multiple constellations as cohesive network. 
 - Hardware in the loop?
 
+##### WP 1 Analysis
+**Duration**
 
+**Budget**
+
+**Activities**
+- Performance of Legacy vs. new system on key metrics
+- Antenna design ITR vs. isotropic 
+- RF band pollution analysis
+- Performance analysis of DTN vs no DTN protocols
+	- Performance with transport layer.  
+**Deliverables**
+
+##### WP 2
+##### WP 1
+##### WP 1
+##### WP 1
 
 ### APPENDIX / ANNEX
 
@@ -148,6 +154,15 @@ Socially, the project promises substantial positive impacts. Improved technology
 	* 
 	* Who are we etc.
 * List of supervisors / mentors / advisors
+	* Israel: 
+	* Jens: 
+		* Have participated in the cubesat revolution and led the well known AAU SATLAB. Where AAU Cubesat 
+			CV: [Insert the table the right way]
+	* ![[Jens-CV.png]]
+	
+
+
+	* Petar: 
 	* Their qualifications
 	* Background in the industry
 	* Involvement in the project
