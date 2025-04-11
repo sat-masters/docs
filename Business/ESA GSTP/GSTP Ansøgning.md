@@ -126,23 +126,40 @@ Socially, the project promises substantial positive impacts. Improved technology
 - Simulation of multiple satellites using multiple constellations as cohesive network. 
 - Hardware in the loop?
 
-##### WP 1 Analysis
+##### WP 1 Simulation
 **Duration**
 
 **Budget**
 
 **Activities**
-- Performance of Legacy vs. new system on key metrics
-- Antenna design ITR vs. isotropic 
-- RF band pollution analysis
-- Performance analysis of DTN vs no DTN protocols
-	- Performance with transport layer.  
-**Deliverables**
+This activity includes the design of a simulation environment to evaluate the performance of the proposed architecture. 
+##### WP 2 Technology development and prototyping
+**Duration**
 
-##### WP 2
-##### WP 1
-##### WP 1
-##### WP 1
+**Budget**
+
+**Activities**
+This activity supports the core of technology design and software development.
+##### WP 3 Analysis and evaluation
+**Duration**
+
+**Budget**
+
+**Activities**
+This activity includes the analysis of the proposed architecture in the DTN context.
+**Deliverables**
+- Performance of Legacy vs. new system on key metrics
+- Performance analysis of DTN vs no DTN protocols
+
+[SKAL nedenstående være her?]
+##### WP 4
+**Duration**
+
+**Budget**
+
+**Activities**
+This activity supports the integration of the system with hardware to run HIL simulations. 
+**Deliverables**
 
 ### APPENDIX / ANNEX
 
