@@ -1,6 +1,7 @@
 ---
 modified: 2025-04-11T08:21:24+02:00
 ---
+
 #### Outline the technology this activity addresses including the technical work to be undertaken. Briefly indicate the implementation schedule and requested budget.
 
 * Intro which takes the proposal as a starting point. 
@@ -27,9 +28,14 @@ Quantum computing? - hvis det er en fordel at gøre i rummet, så er det jo mege
 Alberts forslag:
 This activity addresses the advancement of Disruption Tolerant Networking (DTN) for next-generation space communication.
 The main problem addressed by DTN solutions are the intermittent connectivity and long delays in space communication.
-The current downlink model for small and medium satellites in Low Earth Orbit (LEO)  is limited by ground station availability, making the use of _technologies_ like Bundle Protocol (BP) necessary to ensure data delivery. 
-With focus on Earth observation satellites, we propose to use existing LEO infrastructure, such as OneWeb, Iridium, and Iris² to minimize the disruptions (both in amount and time).
+The current downlink model for small to medium satellites in Low Earth Orbit (LEO)  is limited by ground station availability, making the use of solutions like Bundle Protocol (BP) necessary to ensure _data delivery_.  
+With focus on Earth observation satellites, we propose to use existing LEO infrastructure, such as OneWeb, Iridium, and Iris² to minimize the disruptions, both in amount and time.
 The goal is to create a de-facto standard for downlink in small to medium LEO missions, and to enable seamless, resilient, and high-throughput internet in space.
+The proposed architecture is a connectivity management module that will be integrated into the satellite's communication stack.
+The module will be responsible for intelligently selecting and establishing links to relevant available Space Internet Providers (SIP), ensuring stable and reliable data transfer.
+The project will span over 24 months, with a budget of 200,000 EUR.
+
+
 - **Outline the technology**
 - **Briefly indicate the implementation schedule and requested budget.**
 	- 24 months
