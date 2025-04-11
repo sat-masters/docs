@@ -130,9 +130,7 @@ Our ambition is for this product to become the **de-facto standard for downlink*
 	* Involvement in the project
 
 #### Technical specification
-Primarily for the ESA engineers who will be advising UFM 
 
-The work on this activity will include 
 
 
 Traditional down-links are characterized by intermittent connectivity and long delays.  
