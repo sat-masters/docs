@@ -77,7 +77,10 @@ Our mission is to lower the barriers to entry for satellite communication and en
 Currently, standalone satellite operators must invest in ground station infrastructure to downlink data, which is _costly and inefficient_. 
 Our product will remove the hassle of ground station management, make the downlink design process easier and cheaper, and enable **real-time data services** for LEO satellite operators.
 To realize this vision, we are applying for the GSTP program to develop a **Disruption Tolerant Networking (DTN) solution** as we believe that our solution plays a key role in the future **solar system internet**.
+The immediate goal is to collaborate with **European mega-constellations** and **Danish satellite manufacturers** for integration in upcoming missions.
+This will be the first step in our long-term vision of creating a **seamless, resilient, and high-throughput communication network** in space, making the barriers to entry in the satellite industry lower than ever before.
 
+[NO TIMELINE?]
 
 
 Maskinens forslag:
