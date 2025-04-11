@@ -134,6 +134,8 @@ Socially, the project promises substantial positive impacts. Improved technology
 - Simulation of multiple satellites using multiple constellations as cohesive network. 
 - Hardware in the loop?
 
+
+
 ### APPENDIX / ANNEX
 
 #### Who is involved ?
