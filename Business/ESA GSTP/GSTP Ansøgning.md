@@ -150,6 +150,7 @@ This activity includes the analysis of the proposed architecture in the DTN cont
 **Deliverables**
 - Performance of Legacy vs. new system on key metrics
 - Performance analysis of DTN vs no DTN protocols
+- Simulation of multiple satellites using multiple constellations as cohesive network. 
 
 [SKAL nedenstående være her?]
 ##### WP 4
@@ -159,7 +160,6 @@ This activity includes the analysis of the proposed architecture in the DTN cont
 
 **Activities**
 This activity supports the integration of the system with hardware to run HIL simulations. 
-**Deliverables**
 
 ### APPENDIX / ANNEX
 
