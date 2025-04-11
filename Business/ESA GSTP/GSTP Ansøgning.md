@@ -171,14 +171,14 @@ maskinens "brødtekst"
 
 ---
 
-The project begins with **Work Package 1 (WP 1)**, a [X-month] effort funded at [Salary × X], which focuses on integrating core technologies into a simulation environment to evaluate the performance, scalability, and interoperability of the proposed architecture. Key deliverables include a functional simulation framework with integrated components.
+The project begins with Work Package 1 (WP 1), a [X-month] effort funded at [Salary × X], which focuses on integrating core technologies into a simulation environment to evaluate the performance, scalability, and interoperability of the proposed architecture. Key deliverables include a functional simulation framework with integrated components.
 
-Building on this, **Work Package 2 (WP 2)** spans [Y months] with a budget of [Salary × Y], dedicated to advancing core technology development and prototyping. This phase includes iterative design and creation of intellectual property (IP). The primary outcome will be a functional prototype demonstrating the feasibility of the proposed technologies.
+Building on this, Work Package 2 (WP 2) spans [Y months] with a budget of [Salary × Y], dedicated to advancing core technology development and prototyping. This phase includes iterative design and creation of intellectual property (IP). The primary outcome will be a functional prototype demonstrating the feasibility of the proposed technologies.
 
-**Work Package 3 (WP 3)**, allocated [Z months] and [Salary × Z],  includes rigorous analysis and validation of the architecture within Delay-Tolerant Networking (DTN) scenarios. Activities include comparative performance assessments between legacy systems and the new architecture, and simulations of multi-satellite networks leveraging multiple constellations. Deliverables here encompass a detailed performance comparison report, and simulation results highlighting network cohesion across constellations.
+Work Package 3 (WP 3), allocated [Z months] and [Salary × Z],  includes rigorous analysis and validation of the architecture within Delay-Tolerant Networking (DTN) scenarios. Activities include comparative performance assessments between legacy systems and the new architecture, and simulations of multi-satellite networks leveraging multiple constellations. Deliverables here encompass a detailed performance comparison report, and simulation results highlighting network cohesion across constellations.
 
 [Unsure of this one]
-Finally, **Work Package 4 (WP 4)** ([V months]; [Salary × V]) integrates the system with physical hardware to enable Hardware-in-the-Loop (HIL) simulations, ensuring real-world validation of performance. This phase produces documentation for the HIL testbed setup and a validation report derived from hardware-integrated testing.
+Finally, Work Package 4 (WP 4) ([V months]; [Salary × V]) integrates the system with physical hardware to enable Hardware-in-the-Loop (HIL) simulations, ensuring real-world validation of performance. This phase produces documentation for the HIL testbed setup and a validation report derived from hardware-integrated testing.
 
 ### APPENDIX / ANNEX
 
