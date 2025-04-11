@@ -141,6 +141,9 @@ Socially, the project promises substantial positive impacts. Improved technology
 #### Who is involved ?
 
 * Jens & Albert
+	* Two electronics engineering master students from Aalborg University, with a focus on wireless communication. 
+	* Have worked on satellites throughout our studies. 
+	* 
 	* Who are we etc.
 * List of supervisors / mentors / advisors
 	* Their qualifications
